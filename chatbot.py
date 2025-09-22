@@ -49,12 +49,10 @@ def get_or_create_session(session_id=None):
 def chatbot_ans(question, session_id=None, max_history=10):
     session_id = get_or_create_session(session_id)
     
-    history_msgs = chat_histories[session_id][-max_history:]
+    history_msgs = chat_histories.get(session_id, [])[-max_history:]
     history_str = ""
     for msg in history_msgs:
-        history_str += f"{msg['role'].capitalize()}: {msg['content']}\n"
-    
-    chat_histories[session_id].append({"role": "user", "content": question})
+        history_str += f"User: {msg['user_message']}\nAssistant: {msg['assistant_message']}\n"
     
     final_prompt = prompt_template.format(history=history_str, question=question)
     
@@ -63,18 +61,17 @@ def chatbot_ans(question, session_id=None, max_history=10):
         contents=final_prompt
     )
     
-    chat_histories[session_id].append({"role": "model", "content": response.text})
+    chat_histories[session_id].append({
+        "user_message": question,
+        "assistant_message": response.text,
+    })
     
     save_history()
 
-    return response.text, session_id  
+    return response.text, session_id
 
-# res, session_id = chatbot_ans("Wh0at are the key differences between Type 1 and Type 2 diabetes?")
+# res, session_id = chatbot_ans("Who is CR7?")
+# res, session_id = chatbot_ans("What are the key differences between Type 1 and Type 2 diabetes?", session_id="b7290b16-ee45-4c7e-b368-56063fa5e213")
+res, session_id = chatbot_ans("is Bangladesh win last match?", session_id="b7290b16-ee45-4c7e-b368-56063fa5e213")
 
-# res, session_id = chatbot_ans("Can you explain hyperglycemia symptoms?", session_id="2895614a-e829-4086-8875-65b6342be4b8")
-
-# res, session_id = chatbot_ans("Who is CR7?", session_id="2895614a-e829-4086-8875-65b6342be4b8")
-
-res, session_id = chatbot_ans("Who is CR7?")
-
-# print(f"\n\nHistory: {chat_histories}")
+# res, session_id = chatbot_ans("Who is LM10?")
