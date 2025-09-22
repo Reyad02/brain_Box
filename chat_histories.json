@@ -1,0 +1,38 @@
+{
+  "2895614a-e829-4086-8875-65b6342be4b8": [
+    {
+      "role": "user",
+      "content": "What are the key differences between Type 1 and Type 2 diabetes?"
+    },
+    {
+      "role": "model",
+      "content": "Type 1 diabetes is an autoimmune condition where the pancreas produces little to no insulin. Type 2 diabetes involves insulin resistance or insufficient insulin production. Management differs significantly."
+    },
+    {
+      "role": "user",
+      "content": "Can you explain hyperglycemia symptoms?"
+    },
+    {
+      "role": "model",
+      "content": "Hyperglycemia symptoms include increased thirst, frequent urination, blurred vision, and fatigue. These occur when blood glucose levels are too high."
+    },
+    {
+      "role": "user",
+      "content": "Who is CR7?"
+    },
+    {
+      "role": "model",
+      "content": "I can only assist with NCLEX-related queries. Do you have any questions about diabetes, blood glucose, or other nursing topics for your exam preparation?"
+    }
+  ],
+  "6defbf60-ef2a-4589-8282-04a38a66ceae": [
+    {
+      "role": "user",
+      "content": "Who is CR7?"
+    },
+    {
+      "role": "model",
+      "content": "I can only assist with NCLEX-related queries. Do you have any questions about nursing concepts, patient care, or NCLEX exam preparation?"
+    }
+  ]
+}
