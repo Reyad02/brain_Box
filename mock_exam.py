@@ -15,8 +15,9 @@ Your task is to generate **{num} practice multiple-choice questions** that test 
 1. **Question Style**: Multiple-choice (4 options per question, labeled A–D).
 2. **Answers**: Provide the correct option (e.g., "B").
 3. **Explanations**: Each answer must include a clear, concise explanation of why the chosen option is correct and why the others are incorrect if relevant.
-4. **Output Format**: JSON only (no extra text outside the JSON).
-5. **JSON Schema**:
+4. **Subtopic Rule**: The "subtopic" field must contain only the **main category** (e.g., "Antihypertensives", "Analgesics", "Anticoagulants") without parentheses, extra details, or examples.
+5. **Output Format**: JSON only (no extra text outside the JSON).
+6. **JSON Schema**:
 {{
   "questions": [
     {{
