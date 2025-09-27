@@ -1,853 +1,852 @@
 {
   "questions": [
     {
-      "question": "A nurse is administering warfarin (Coumadin) to a patient. Which of the following laboratory values would the nurse monitor to assess the therapeutic effectiveness of this medication?",
+      "question": "A nurse is caring for a patient prescribed lisinopril for hypertension. Which of the following assessments is most important to perform before administering this medication?",
       "options": {
-        "A": "Activated partial thromboplastin time (aPTT)",
-        "B": "Prothrombin time (PT) and international normalized ratio (INR)",
-        "C": "Platelet count",
-        "D": "Hemoglobin and hematocrit"
+        "A": "Assess the patient's lung sounds for crackles.",
+        "B": "Assess the patient's apical pulse rate and blood pressure.",
+        "C": "Assess the patient's potassium level.",
+        "D": "Assess the patient's level of consciousness."
       },
       "id": 1
     },
     {
-      "question": "A patient is prescribed lisinopril (Zestril), an ACE inhibitor. The nurse should instruct the patient to report which of the following side effects?",
+      "question": "A patient is prescribed warfarin for atrial fibrillation. The nurse should instruct the patient to avoid which of the following while taking this medication?",
       "options": {
-        "A": "Dizziness and dry cough",
-        "B": "Nausea and vomiting",
-        "C": "Constipation and abdominal pain",
-        "D": "Rash and itching"
+        "A": "Leafy green vegetables.",
+        "B": "Dairy products.",
+        "C": "Citrus fruits.",
+        "D": "Red meat."
       },
       "id": 2
     },
     {
-      "question": "Which of the following is a common adverse effect of opioid analgesics like morphine?",
+      "question": "A nurse is administering intravenous vancomycin to a patient. Which of the following adverse effects should the nurse monitor for during and immediately after the infusion?",
       "options": {
-        "A": "Diarrhea",
-        "B": "Respiratory depression",
-        "C": "Increased heart rate",
-        "D": "Insomnia"
+        "A": "Photosensitivity.",
+        "B": "Red man syndrome.",
+        "C": "Tinnitus.",
+        "D": "Peripheral neuropathy."
       },
       "id": 3
     },
     {
-      "question": "A patient is receiving a continuous infusion of heparin. The nurse monitors which laboratory test to assess for therapeutic anticoagulation?",
+      "question": "A patient is prescribed metoprolol, a beta-blocker. The nurse should question the order if the patient has a history of which of the following conditions?",
       "options": {
-        "A": "Prothrombin time (PT)",
-        "B": "International normalized ratio (INR)",
-        "C": "Activated partial thromboplastin time (aPTT)",
-        "D": "Fibrinogen level"
+        "A": "Diabetes mellitus.",
+        "B": "Asthma.",
+        "C": "Gastroesophageal reflux disease.",
+        "D": "Osteoporosis."
       },
       "id": 4
     },
     {
-      "question": "A nurse is educating a patient about furosemide (Lasix), a loop diuretic. Which of the following electrolyte imbalances is the patient at risk for?",
+      "question": "A nurse is caring for a patient with moderate pain. Which of the following opioid analgesics is generally considered less potent than morphine?",
       "options": {
-        "A": "Hyperkalemia",
-        "B": "Hypernatremia",
-        "C": "Hypokalemia",
-        "D": "Hypomagnesemia"
+        "A": "Hydromorphone.",
+        "B": "Fentanyl.",
+        "C": "Meperidine.",
+        "D": "Codeine."
       },
       "id": 5
     },
     {
-      "question": "Which class of medication is typically prescribed for a patient with a bacterial infection to kill the bacteria?",
+      "question": "A patient is prescribed furosemide, a loop diuretic. The nurse should monitor which of the following laboratory values closely?",
       "options": {
-        "A": "Antivirals",
-        "B": "Antifungals",
-        "C": "Antibiotics",
-        "D": "Antiparasitics"
+        "A": "Sodium.",
+        "B": "Calcium.",
+        "C": "Potassium.",
+        "D": "Magnesium."
       },
       "id": 6
     },
     {
-      "question": "A patient is taking simvastatin (Zocor), a statin medication. The nurse should monitor which laboratory value for potential adverse effects?",
+      "question": "A patient is receiving atorvastatin for hyperlipidemia. The nurse should instruct the patient to report which of the following adverse effects immediately?",
       "options": {
-        "A": "Blood urea nitrogen (BUN)",
-        "B": "Creatinine",
-        "C": "Liver enzymes (ALT, AST)",
-        "D": "White blood cell count"
+        "A": "Headache.",
+        "B": "Muscle pain.",
+        "C": "Nausea.",
+        "D": "Dizziness."
       },
       "id": 7
     },
     {
-      "question": "Which of the following medications is an example of a beta-adrenergic blocker used to treat hypertension?",
+      "question": "A nurse is administering an antibiotic to a patient. The patient reports feeling itchy and developing a rash. What is the most appropriate immediate action for the nurse to take?",
       "options": {
-        "A": "Hydrochlorothiazide",
-        "B": "Amlodipine",
-        "C": "Metoprolol",
-        "D": "Losartan"
+        "A": "Administer an antihistamine.",
+        "B": "Continue the infusion and monitor closely.",
+        "C": "Stop the infusion immediately.",
+        "D": "Document the findings and reassess in 30 minutes."
       },
       "id": 8
     },
     {
-      "question": "A patient has been prescribed metformin (Glucophage) for type 2 diabetes. What is a key nursing consideration for this medication?",
+      "question": "A patient is prescribed a proton pump inhibitor (PPI) like omeprazole. What is the primary action of this medication?",
       "options": {
-        "A": "Monitor for hypoglycemia",
-        "B": "Administer with food",
-        "C": "Monitor for lactic acidosis, especially with renal impairment",
-        "D": "It can be taken as needed for high blood sugar readings"
+        "A": "Neutralizes stomach acid.",
+        "B": "Blocks histamine receptors in the stomach.",
+        "C": "Reduces the production of stomach acid.",
+        "D": "Increases the motility of the stomach."
       },
       "id": 9
     },
     {
-      "question": "A nurse is administering a short-acting beta-agonist inhaler (e.g., albuterol) to a patient with asthma. The nurse should instruct the patient that this medication is used for which purpose?",
+      "question": "A nurse is preparing to administer insulin lispro to a patient. This type of insulin is classified as:",
       "options": {
-        "A": "Long-term prevention of asthma attacks",
-        "B": "Rapid relief of bronchospasm during an acute attack",
-        "C": "Reducing airway inflammation",
-        "D": "Suppressing the cough reflex"
+        "A": "Long-acting insulin.",
+        "B": "Intermediate-acting insulin.",
+        "C": "Rapid-acting insulin.",
+        "D": "Short-acting insulin."
       },
       "id": 10
     },
     {
-      "question": "A nurse is administering intravenous nitroglycerin to a patient experiencing acute myocardial infarction. What is the primary mechanism of action of nitroglycerin?",
+      "question": "A nurse is administering lisinopril to a patient. What is the primary mechanism of action for this medication?",
       "options": {
-        "A": "It blocks beta-adrenergic receptors, reducing heart rate and contractility.",
-        "B": "It acts as a direct vasodilator, reducing preload and afterload.",
-        "C": "It inhibits the enzyme phosphodiesterase, leading to increased calcium influx.",
-        "D": "It antagonizes angiotensin II receptors, promoting vasodilation."
+        "A": "Directly dilates peripheral blood vessels.",
+        "B": "Blocks the conversion of angiotensin I to angiotensin II.",
+        "C": "Inhibits reabsorption of sodium and chloride in the kidneys.",
+        "D": "Slows the heart rate by blocking beta-adrenergic receptors."
       },
       "id": 11
     },
     {
-      "question": "A patient is prescribed warfarin for atrial fibrillation. What is a crucial nursing intervention when administering warfarin?",
+      "question": "A patient is prescribed warfarin for atrial fibrillation. Which laboratory test is essential for monitoring the therapeutic effectiveness of this medication?",
       "options": {
-        "A": "Monitor the patient's potassium level.",
-        "B": "Administer with a meal to improve absorption.",
-        "C": "Educate the patient about avoiding leafy green vegetables.",
-        "D": "Check the patient's liver function tests (LFTs) weekly."
+        "A": "Prothrombin time (PT) and International Normalized Ratio (INR).",
+        "B": "Partial thromboplastin time (PTT).",
+        "C": "Platelet count.",
+        "D": "Creatinine clearance."
       },
       "id": 12
     },
     {
-      "question": "A nurse is preparing to administer a dose of lisinopril to a patient with hypertension. Which assessment finding is most important to report to the healthcare provider before administering this medication?",
+      "question": "A nurse is caring for a patient receiving intravenous vancomycin. Which adverse effect should the nurse monitor for closely during the infusion?",
       "options": {
-        "A": "Blood pressure of 130/85 mmHg.",
-        "B": "Heart rate of 78 beats per minute.",
-        "C": "Dry cough.",
-        "D": "Serum creatinine of 1.5 mg/dL (normal 0.6-1.3 mg/dL)."
+        "A": "Hypoglycemia.",
+        "B": "Red man syndrome.",
+        "C": "Tinnitus.",
+        "D": "Photosensitivity."
       },
       "id": 13
     },
     {
-      "question": "A patient is receiving furosemide for heart failure. What electrolyte imbalance is a common adverse effect of furosemide that the nurse should monitor for?",
+      "question": "Which of the following is a common adverse effect of opioid analgesics?",
       "options": {
-        "A": "Hyperkalemia",
-        "B": "Hyponatremia",
-        "C": "Hypokalemia",
-        "D": "Hypercalcemia"
+        "A": "Diarrhea.",
+        "B": "Hypertension.",
+        "C": "Respiratory depression.",
+        "D": "Insomnia."
       },
       "id": 14
     },
     {
-      "question": "A nurse is educating a patient about taking oral prednisone for an inflammatory condition. Which of the following is an important instruction for the patient?",
+      "question": "A patient with asthma is prescribed albuterol. What is the classification of this medication?",
       "options": {
-        "A": "Discontinue the medication immediately if side effects occur.",
-        "B": "Take the medication on an empty stomach.",
-        "C": "Avoid contact with individuals who have active infections.",
-        "D": "Increase intake of calcium-rich foods."
+        "A": "Corticosteroid.",
+        "B": "Long-acting beta-agonist.",
+        "C": "Short-acting beta-agonist.",
+        "D": "Leukotriene modifier."
       },
       "id": 15
     },
     {
-      "question": "A patient is prescribed metoprolol. What class of medication is metoprolol, and what is its primary therapeutic effect?",
+      "question": "A nurse is preparing to administer furosemide. What is the most important nursing consideration before giving this medication?",
       "options": {
-        "A": "ACE inhibitor; reduces blood pressure by blocking angiotensin II.",
-        "B": "Beta-blocker; reduces heart rate and myocardial oxygen demand.",
-        "C": "Calcium channel blocker; causes vasodilation and reduces afterload.",
-        "D": "Diuretic; increases sodium and water excretion."
+        "A": "Assess blood glucose level.",
+        "B": "Check the patient's potassium level.",
+        "C": "Measure the patient's oxygen saturation.",
+        "D": "Evaluate the patient's heart rate."
       },
       "id": 16
     },
     {
-      "question": "A nurse is administering intravenous vancomycin to a patient with a serious bacterial infection. What is a critical nursing consideration to prevent Red Man Syndrome?",
+      "question": "A patient is taking atorvastatin. What is the primary purpose of this medication?",
       "options": {
-        "A": "Administer the medication rapidly over 15 minutes.",
-        "B": "Ensure the medication is infused over at least 60 minutes.",
-        "C": "Monitor the patient's temperature continuously.",
-        "D": "Administer a prophylactic dose of an antihistamine."
+        "A": "To lower blood pressure.",
+        "B": "To reduce cholesterol levels.",
+        "C": "To prevent blood clots.",
+        "D": "To treat bacterial infections."
       },
       "id": 17
     },
     {
-      "question": "A patient is prescribed atorvastatin. What is the primary purpose of statin medications?",
+      "question": "Which of the following is a contraindication for administering a beta-blocker like metoprolol?",
       "options": {
-        "A": "To dissolve blood clots.",
-        "B": "To lower cholesterol levels.",
-        "C": "To reduce inflammation.",
-        "D": "To control blood glucose."
+        "A": "Hypertension.",
+        "B": "Asthma or severe bronchospasm.",
+        "C": "Heart failure.",
+        "D": "Myocardial infarction."
       },
       "id": 18
     },
     {
-      "question": "A patient is experiencing severe pain and is prescribed morphine sulfate intravenously. What is the most important adverse effect to monitor for after administration?",
+      "question": "A nurse is administering insulin lispro. When should this medication typically be administered in relation to meals?",
       "options": {
-        "A": "Tachycardia",
-        "B": "Hypertension",
-        "C": "Respiratory depression",
-        "D": "Nausea and vomiting"
+        "A": "30 minutes before meals.",
+        "B": "With meals.",
+        "C": "15-30 minutes before meals.",
+        "D": "1 hour after meals."
       },
       "id": 19
     },
     {
-      "question": "A nurse is administering albuterol via metered-dose inhaler (MDI) to a patient with asthma. What is the expected therapeutic effect of albuterol?",
+      "question": "A patient is prescribed metformin for type 2 diabetes. What is a significant adverse effect that the nurse should educate the patient about?",
       "options": {
-        "A": "To reduce airway inflammation.",
-        "B": "To stimulate the cough reflex.",
-        "C": "To cause bronchodilation.",
-        "D": "To prevent future asthma exacerbations."
+        "A": "Hypoglycemia.",
+        "B": "Weight gain.",
+        "C": "Lactic acidosis.",
+        "D": "Increased appetite."
       },
       "id": 20
     },
     {
-      "question": "A nurse is administering intravenous furosemide to a client with heart failure. Which of the following vital signs should the nurse monitor most closely for a potential adverse effect?",
+      "question": "A nurse is administering warfarin to a client. Which laboratory value should the nurse monitor to assess the therapeutic effectiveness of this medication?",
       "options": {
-        "A": "Heart rate",
-        "B": "Respiratory rate",
-        "C": "Blood pressure",
-        "D": "Temperature"
+        "A": "Complete blood count (CBC)",
+        "B": "Prothrombin time (PT) and International Normalized Ratio (INR)",
+        "C": "Blood urea nitrogen (BUN) and creatinine",
+        "D": "Lipid profile"
       },
       "id": 21
     },
     {
-      "question": "A client is prescribed warfarin for atrial fibrillation. The nurse should educate the client about which of the following foods that should be consumed in moderation due to their interaction with warfarin?",
+      "question": "A client is prescribed furosemide, a loop diuretic. Which electrolyte imbalance is the nurse most likely to monitor for?",
       "options": {
-        "A": "Oranges",
-        "B": "Spinach",
-        "C": "Apples",
-        "D": "Chicken breast"
+        "A": "Hyperkalemia",
+        "B": "Hyponatremia",
+        "C": "Hypercalcemia",
+        "D": "Hypokalemia"
       },
       "id": 22
     },
     {
-      "question": "A nurse is preparing to administer a dose of digoxin. Which assessment finding would require the nurse to withhold the medication and notify the healthcare provider?",
+      "question": "A nurse is preparing to administer a dose of metformin to a client with type 2 diabetes. What is the primary mechanism of action for metformin?",
       "options": {
-        "A": "Heart rate of 72 beats/min",
-        "B": "Potassium level of 4.0 mEq/L",
-        "C": "Blood pressure of 130/80 mmHg",
-        "D": "Apical pulse of 55 beats/min"
+        "A": "Stimulates the pancreas to produce more insulin.",
+        "B": "Increases insulin sensitivity and decreases hepatic glucose production.",
+        "C": "Blocks the reabsorption of glucose in the kidneys.",
+        "D": "Mimics the action of incretin hormones."
       },
       "id": 23
     },
     {
-      "question": "A client is prescribed an ACE inhibitor for hypertension. The nurse should instruct the client to report which of the following adverse effects?",
+      "question": "A client is receiving intravenous gentamicin. What is a crucial nursing consideration when administering this aminoglycoside antibiotic?",
       "options": {
-        "A": "Increased appetite",
-        "B": "Persistent dry cough",
-        "C": "Drowsiness",
-        "D": "Blurred vision"
+        "A": "Monitor for ototoxicity and nephrotoxicity.",
+        "B": "Administer with milk to enhance absorption.",
+        "C": "Encourage increased fluid intake to prevent constipation.",
+        "D": "Assess for signs of hyperglycemia."
       },
       "id": 24
     },
     {
-      "question": "A nurse is administering a statin medication to a client. The nurse should monitor which laboratory test to assess for a potential adverse effect?",
+      "question": "A nurse is caring for a client experiencing moderate to severe pain. Which class of analgesic is most appropriate for this client?",
       "options": {
-        "A": "Blood urea nitrogen (BUN)",
-        "B": "Alanine aminotransferase (ALT)",
-        "C": "White blood cell count (WBC)",
-        "D": "Hemoglobin A1c"
+        "A": "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+        "B": "Acetaminophen",
+        "C": "Opioid agonists",
+        "D": "Topical anesthetics"
       },
       "id": 25
     },
     {
-      "question": "A client is receiving a continuous intravenous infusion of heparin. Which laboratory value should the nurse monitor to assess the therapeutic effect of the medication?",
+      "question": "A client is prescribed lisinopril for hypertension. What is the therapeutic classification of this medication?",
       "options": {
-        "A": "Prothrombin time (PT)",
-        "B": "Activated partial thromboplastin time (aPTT)",
-        "C": "International Normalized Ratio (INR)",
-        "D": "Platelet count"
+        "A": "Beta-blocker",
+        "B": "Calcium channel blocker",
+        "C": "Angiotensin-converting enzyme (ACE) inhibitor",
+        "D": "Diuretic"
       },
       "id": 26
     },
     {
-      "question": "A nurse is administering a beta-blocker to a client with angina. The nurse should monitor which of the following assessments prior to administration?",
+      "question": "A nurse is educating a client about albuterol, a short-acting beta-agonist inhaler. What should the nurse instruct the client to do after using the inhaler?",
       "options": {
-        "A": "Pupil dilation",
-        "B": "Blood glucose level",
-        "C": "Apical pulse rate",
-        "D": "Bowel sounds"
+        "A": "Rinse the mouth with water.",
+        "B": "Hold their breath for 10 seconds.",
+        "C": "Shake the inhaler vigorously before use.",
+        "D": "Exhale fully before inhaling."
       },
       "id": 27
     },
     {
-      "question": "A client is prescribed a proton pump inhibitor (PPI) for gastroesophageal reflux disease (GERD). The nurse should instruct the client about which of the following potential long-term side effects?",
+      "question": "A client is prescribed atorvastatin. What is the primary purpose of this medication?",
       "options": {
-        "A": "Increased risk of kidney stones",
-        "B": "Increased risk of osteoporosis",
-        "C": "Increased risk of skin cancer",
-        "D": "Increased risk of liver damage"
+        "A": "To lower blood pressure.",
+        "B": "To treat bacterial infections.",
+        "C": "To reduce cholesterol levels.",
+        "D": "To prevent blood clots."
       },
       "id": 28
     },
     {
-      "question": "A client is experiencing an allergic reaction to penicillin. The nurse should be prepared to administer which of the following medications as an antidote or to manage symptoms?",
+      "question": "A nurse is administering a dose of digoxin to a client. Before administering, what vital sign should the nurse assess?",
       "options": {
-        "A": "Acetaminophen",
-        "B": "Epinephrine",
-        "C": "Lidocaine",
-        "D": "Salmeterol"
+        "A": "Respiratory rate",
+        "B": "Blood pressure",
+        "C": "Temperature",
+        "D": "Apical pulse rate"
       },
       "id": 29
     },
     {
-      "question": "A nurse is administering an opioid analgesic to a client for pain management. Which of the following adverse effects is most critical to monitor for and manage?",
+      "question": "A client is experiencing an anaphylactic reaction. Which medication is considered the first-line treatment of choice?",
       "options": {
-        "A": "Dry mouth",
-        "B": "Constipation",
-        "C": "Respiratory depression",
-        "D": "Nausea and vomiting"
+        "A": "Diphenhydramine",
+        "B": "Epinephrine",
+        "C": "Corticosteroids",
+        "D": "Albuterol"
       },
       "id": 30
     },
     {
-      "question": "A nurse is administering digoxin to a client. Which assessment finding is most important to report to the prescriber before administering the dose?",
+      "question": "A nurse is administering digoxin to a patient with heart failure. Which of the following assessments is most important to perform before administering this medication?",
       "options": {
-        "A": "Blood pressure of 110/70 mmHg",
-        "B": "Heart rate of 55 beats per minute",
-        "C": "Potassium level of 3.8 mEq/L",
-        "D": "Client reports mild nausea"
+        "A": "Blood pressure",
+        "B": "Respiratory rate",
+        "C": "Apical pulse rate",
+        "D": "Pupillary reaction"
       },
       "id": 31
     },
     {
-      "question": "A client is prescribed warfarin for atrial fibrillation. Which food item should the nurse advise the client to limit in their diet?",
+      "question": "A patient is prescribed warfarin for atrial fibrillation. The nurse educates the patient about which of the following potential adverse effects?",
       "options": {
-        "A": "Apples",
-        "B": "Spinach",
-        "C": "Chicken",
-        "D": "Rice"
+        "A": "Hypoglycemia",
+        "B": "Bruising and bleeding",
+        "C": "Hyperkalemia",
+        "D": "Photosensitivity"
       },
       "id": 32
     },
     {
-      "question": "A nurse is administering lisinopril to a client. Which adverse effect should the nurse monitor for most closely?",
+      "question": "Which of the following classes of medications is typically used as a first-line treatment for hypertension?",
       "options": {
-        "A": "Bradycardia",
-        "B": "Hypokalemia",
-        "C": "Hyperglycemia",
-        "D": "Cough"
+        "A": "Opioid analgesics",
+        "B": "Diuretics",
+        "C": "Bronchodilators",
+        "D": "Anticonvulsants"
       },
       "id": 33
     },
     {
-      "question": "A client with type 2 diabetes mellitus is prescribed metformin. The nurse understands that metformin's primary mechanism of action is to:",
+      "question": "A patient is taking atorvastatin. The nurse should monitor for which of the following adverse effects?",
       "options": {
-        "A": "Stimulate the pancreas to release more insulin.",
-        "B": "Decrease hepatic glucose production.",
-        "C": "Increase glucose reabsorption in the kidneys.",
-        "D": "Block the action of insulin in peripheral tissues."
+        "A": "Muscle pain and weakness",
+        "B": "Increased appetite",
+        "C": "Bradycardia",
+        "D": "Dizziness"
       },
       "id": 34
     },
     {
-      "question": "A nurse is preparing to administer an intravenous infusion of vancomycin. The nurse should monitor the client for which potential adverse effect?",
-      "options": {
-        "A": "Red man syndrome",
-        "B": "Photosensitivity",
-        "C": "Hepatotoxicity",
-        "D": "Tinnitus"
-      },
-      "id": 35
-    },
-    {
-      "question": "A client is taking atorvastatin for hyperlipidemia. The nurse should educate the client to report which symptom, as it may indicate a serious adverse effect?",
-      "options": {
-        "A": "Muscle pain or weakness",
-        "B": "Constipation",
-        "C": "Headache",
-        "D": "Dizziness"
-      },
-      "id": 36
-    },
-    {
-      "question": "A client is prescribed an albuterol inhaler. The nurse should instruct the client to use it:",
-      "options": {
-        "A": "As needed for shortness of breath.",
-        "B": "Once daily in the morning.",
-        "C": "Twice daily before meals.",
-        "D": "At bedtime every night."
-      },
-      "id": 37
-    },
-    {
-      "question": "A nurse is administering morphine sulfate to a client experiencing severe pain. Which vital sign is most critical to monitor after administration?",
-      "options": {
-        "A": "Temperature",
-        "B": "Respiratory rate",
-        "C": "Pulse oximetry",
-        "D": "Blood pressure"
-      },
-      "id": 38
-    },
-    {
-      "question": "A client is prescribed furosemide. The nurse should monitor which electrolyte imbalance most closely?",
-      "options": {
-        "A": "Hyperkalemia",
-        "B": "Hyponatremia",
-        "C": "Hypokalemia",
-        "D": "Hypercalcemia"
-      },
-      "id": 39
-    },
-    {
-      "question": "A client is receiving a continuous infusion of heparin. The nurse should monitor which laboratory value to assess the effectiveness of the medication?",
+      "question": "A patient is receiving a continuous infusion of heparin. The nurse understands that which of the following laboratory tests is used to monitor the therapeutic effectiveness of heparin?",
       "options": {
         "A": "Prothrombin time (PT)",
         "B": "International Normalized Ratio (INR)",
         "C": "Activated partial thromboplastin time (aPTT)",
         "D": "Platelet count"
       },
-      "id": 40
+      "id": 35
     },
     {
-      "question": "A nurse is administering warfarin to a patient. Which laboratory value is most important for the nurse to monitor to assess the effectiveness of this medication?",
+      "question": "A nurse is administering albuterol to a patient with asthma. This medication is classified as a:",
       "options": {
-        "A": "Prothrombin time (PT) and international normalized ratio (INR)",
-        "B": "Activated partial thromboplastin time (aPTT)",
-        "C": "Platelet count",
-        "D": "Hemoglobin and hematocrit"
+        "A": "Corticosteroid",
+        "B": "Beta-2 adrenergic agonist",
+        "C": "Antihistamine",
+        "D": "Leukotriene modifier"
       },
-      "id": 41
+      "id": 36
     },
     {
-      "question": "A patient is prescribed furosemide, a loop diuretic. The nurse should educate the patient about which potential adverse effect?",
+      "question": "A patient is prescribed metformin for type 2 diabetes. The nurse should instruct the patient to avoid which of the following activities during the initial phase of therapy?",
       "options": {
-        "A": "Hyperkalemia",
-        "B": "Hyponatremia",
-        "C": "Hyperglycemia",
-        "D": "Hypercalcemia"
+        "A": "Heavy alcohol consumption",
+        "B": "Eating grapefruit",
+        "C": "Consuming dairy products",
+        "D": "Exposing skin to sunlight"
       },
-      "id": 42
+      "id": 37
     },
     {
-      "question": "Which of the following is a common side effect of beta-adrenergic blockers (e.g., metoprolol)?",
-      "options": {
-        "A": "Tachycardia",
-        "B": "Hypertension",
-        "C": "Bradycardia",
-        "D": "Hyperthermia"
-      },
-      "id": 43
-    },
-    {
-      "question": "A nurse is preparing to administer an intravenous infusion of nitroglycerin for a patient experiencing unstable angina. What is the primary purpose of this medication?",
-      "options": {
-        "A": "To increase myocardial oxygen demand",
-        "B": "To cause vasodilation, reducing preload and afterload",
-        "C": "To increase heart rate and contractility",
-        "D": "To prevent blood clot formation"
-      },
-      "id": 44
-    },
-    {
-      "question": "When administering a statin medication (e.g., atorvastatin), the nurse should instruct the patient to report which potential adverse effect?",
-      "options": {
-        "A": "Diarrhea",
-        "B": "Muscle pain or weakness",
-        "C": "Increased appetite",
-        "D": "Dizziness"
-      },
-      "id": 45
-    },
-    {
-      "question": "A patient is taking an ACE inhibitor (e.g., lisinopril). The nurse should assess for which common adverse reaction?",
-      "options": {
-        "A": "Dry cough",
-        "B": "Peripheral edema",
-        "C": "Bradycardia",
-        "D": "Constipation"
-      },
-      "id": 46
-    },
-    {
-      "question": "Which class of antibiotics is typically considered the first-line treatment for a streptococcal pharyngitis infection?",
-      "options": {
-        "A": "Macrolides (e.g., azithromycin)",
-        "B": "Penicillins (e.g., penicillin V or amoxicillin)",
-        "C": "Fluoroquinolones (e.g., ciprofloxacin)",
-        "D": "Tetracyclines (e.g., doxycycline)"
-      },
-      "id": 47
-    },
-    {
-      "question": "A nurse is administering a corticosteroid (e.g., prednisone). Which of the following is a long-term side effect that requires patient education?",
-      "options": {
-        "A": "Increased energy",
-        "B": "Weight gain and decreased bone density",
-        "C": "Improved sleep",
-        "D": "Lowered blood pressure"
-      },
-      "id": 48
-    },
-    {
-      "question": "A patient is prescribed metformin for type 2 diabetes. The nurse should advise the patient to report which serious adverse effect?",
-      "options": {
-        "A": "Increased thirst",
-        "B": "Nausea and vomiting",
-        "C": "Lactic acidosis",
-        "D": "Blurred vision"
-      },
-      "id": 49
-    },
-    {
-      "question": "Which of the following is a common contraindication for administering a beta-blocker?",
-      "options": {
-        "A": "Hypertension",
-        "B": "Asthma or COPD with bronchospasm",
-        "C": "Congestive heart failure",
-        "D": "Atrial fibrillation"
-      },
-      "id": 50
-    },
-    {
-      "question": "A nurse is administering furosemide (Lasix) to a patient with heart failure. Which electrolyte imbalance is the most important to monitor for with this medication?",
-      "options": {
-        "A": "Hyperkalemia",
-        "B": "Hyponatremia",
-        "C": "Hypokalemia",
-        "D": "Hypercalcemia"
-      },
-      "id": 51
-    },
-    {
-      "question": "A patient is prescribed warfarin (Coumadin) for atrial fibrillation. The nurse should educate the patient to avoid which dietary component?",
-      "options": {
-        "A": "Citrus fruits",
-        "B": "Leafy green vegetables",
-        "C": "Dairy products",
-        "D": "Lean proteins"
-      },
-      "id": 52
-    },
-    {
-      "question": "Which of the following medications is an ACE inhibitor, used to manage hypertension?",
-      "options": {
-        "A": "Amlodipine (Norvasc)",
-        "B": "Lisinopril (Zestril)",
-        "C": "Metoprolol (Lopressor)",
-        "D": "Losartan (Cozaar)"
-      },
-      "id": 53
-    },
-    {
-      "question": "A nurse is preparing to administer a prescribed dose of insulin aspart (NovoLog). This medication is categorized as:",
-      "options": {
-        "A": "Long-acting insulin",
-        "B": "Intermediate-acting insulin",
-        "C": "Rapid-acting insulin",
-        "D": "Basal insulin"
-      },
-      "id": 54
-    },
-    {
-      "question": "A patient is experiencing an acute asthmatic exacerbation and is prescribed albuterol (Proventil). What is the primary therapeutic effect of albuterol?",
-      "options": {
-        "A": "To reduce inflammation in the airways",
-        "B": "To block histamine release",
-        "C": "To promote bronchodilation",
-        "D": "To suppress the cough reflex"
-      },
-      "id": 55
-    },
-    {
-      "question": "When administering atorvastatin (Lipitor), the nurse understands that this medication is primarily used to:",
-      "options": {
-        "A": "Lower blood pressure",
-        "B": "Prevent blood clots",
-        "C": "Lower cholesterol levels",
-        "D": "Treat bacterial infections"
-      },
-      "id": 56
-    },
-    {
-      "question": "A patient is prescribed metformin (Glucophage) for type 2 diabetes. Which serious adverse effect should the nurse monitor for?",
-      "options": {
-        "A": "Hypoglycemia",
-        "B": "Lactic acidosis",
-        "C": "Hyperglycemia",
-        "D": "Weight gain"
-      },
-      "id": 57
-    },
-    {
-      "question": "Which class of antibiotics is typically prescribed for a bacterial infection caused by methicillin-resistant Staphylococcus aureus (MRSA)?",
-      "options": {
-        "A": "Penicillins",
-        "B": "Cephalosporins",
-        "C": "Macrolides",
-        "D": "Vancomycin"
-      },
-      "id": 58
-    },
-    {
-      "question": "A patient is prescribed a beta-blocker, such as metoprolol (Lopressor). The nurse should assess the patient for which potential adverse effect?",
-      "options": {
-        "A": "Tachycardia",
-        "B": "Bradycardia",
-        "C": "Hypertension",
-        "D": "Agitation"
-      },
-      "id": 59
-    },
-    {
-      "question": "A nurse is administering a prescribed opioid analgesic, such as morphine. The most important nursing intervention to monitor for is:",
-      "options": {
-        "A": "Increased heart rate",
-        "B": "Decreased bowel motility",
-        "C": "Respiratory depression",
-        "D": "Pupil dilation"
-      },
-      "id": 60
-    },
-    {
-      "question": "A nurse is administering warfarin to a patient. Which of the following laboratory values would be most important for the nurse to monitor?",
-      "options": {
-        "A": "Complete Blood Count (CBC)",
-        "B": "Serum Creatinine",
-        "C": "Prothrombin Time (PT) and International Normalized Ratio (INR)",
-        "D": "Liver Function Tests (LFTs)"
-      },
-      "id": 61
-    },
-    {
-      "question": "A patient is prescribed furosemide. What is the primary mechanism of action of this medication?",
-      "options": {
-        "A": "Inhibits angiotensin-converting enzyme (ACE).",
-        "B": "Blocks beta-adrenergic receptors.",
-        "C": "Inhibits reabsorption of sodium and chloride in the ascending limb of the loop of Henle.",
-        "D": "Antagonizes aldosterone.",
-        "E": "Dilates peripheral blood vessels."
-      },
-      "id": 62
-    },
-    {
-      "question": "A patient is receiving intravenous vancomycin for a serious infection. The nurse should anticipate monitoring for which adverse effect?",
-      "options": {
-        "A": "Hypokalemia",
-        "B": "Red man syndrome",
-        "C": "Ototoxicity",
-        "D": "Photosensitivity"
-      },
-      "id": 63
-    },
-    {
-      "question": "Which of the following is a common side effect of ACE inhibitors like lisinopril?",
-      "options": {
-        "A": "Hyperkalemia",
-        "B": "Dry cough",
-        "C": "Peripheral edema",
-        "D": "Bradycardia"
-      },
-      "id": 64
-    },
-    {
-      "question": "A nurse is educating a patient about their new prescription for metformin. Which of the following statements by the patient indicates a need for further teaching?",
-      "options": {
-        "A": "\"I should take this medication with food.\"",
-        "B": "\"This medication helps lower my blood sugar by reducing the amount of glucose my liver makes.\"",
-        "C": "\"I need to call my doctor immediately if I experience muscle pain.\"",
-        "D": "\"I can stop taking this medication once my blood sugar levels are normal.\""
-      },
-      "id": 65
-    },
-    {
-      "question": "A patient is experiencing an acute asthma exacerbation and is prescribed albuterol. Albuterol is classified as which type of medication?",
-      "options": {
-        "A": "Inhaled corticosteroid",
-        "B": "Long-acting beta-agonist (LABA)",
-        "C": "Short-acting beta-agonist (SABA)",
-        "D": "Anticholinergic bronchodilator"
-      },
-      "id": 66
-    },
-    {
-      "question": "A nurse is administering digoxin to a patient. Which of the following findings would warrant withholding the dose and notifying the healthcare provider?",
-      "options": {
-        "A": "Heart rate of 75 beats per minute",
-        "B": "Potassium level of 4.0 mEq/L",
-        "C": "Digitalis toxicity symptoms (e.g., nausea, visual disturbances)",
-        "D": "Blood pressure of 130/80 mmHg"
-      },
-      "id": 67
-    },
-    {
-      "question": "What is the antidote for an opioid overdose?",
-      "options": {
-        "A": "Flumazenil",
-        "B": "Naloxone",
-        "C": "Protamine sulfate",
-        "D": "Acetylcysteine"
-      },
-      "id": 68
-    },
-    {
-      "question": "A patient is prescribed atorvastatin. What is the primary purpose of this medication?",
-      "options": {
-        "A": "Lower blood pressure",
-        "B": "Prevent blood clots",
-        "C": "Reduce cholesterol levels",
-        "D": "Treat bacterial infections"
-      },
-      "id": 69
-    },
-    {
-      "question": "A nurse is assessing a patient receiving a beta-blocker. Which of the following vital signs should the nurse assess before administering the medication?",
-      "options": {
-        "A": "Respiratory rate",
-        "B": "Temperature",
-        "C": "Oxygen saturation",
-        "D": "Blood pressure and heart rate"
-      },
-      "id": 70
-    },
-    {
-      "question": "A nurse is administering warfarin to a patient. Which laboratory test result would be most important for the nurse to monitor?",
-      "options": {
-        "A": "Hemoglobin A1c",
-        "B": "International Normalized Ratio (INR)",
-        "C": "Serum creatinine",
-        "D": "Potassium level"
-      },
-      "id": 71
-    },
-    {
-      "question": "A patient is prescribed lisinopril for hypertension. The nurse should instruct the patient to report which potential adverse effect?",
-      "options": {
-        "A": "Peripheral edema",
-        "B": "Dry, hacking cough",
-        "C": "Dizziness upon standing",
-        "D": "Weight gain"
-      },
-      "id": 72
-    },
-    {
-      "question": "Which classification of medication is a beta-blocker, commonly used for angina and hypertension?",
-      "options": {
-        "A": "ACE inhibitor",
-        "B": "Calcium channel blocker",
-        "C": "Diuretic",
-        "D": "Beta-adrenergic antagonist"
-      },
-      "id": 73
-    },
-    {
-      "question": "A patient is receiving a continuous infusion of heparin. The nurse should anticipate having which medication available as an antidote in case of overdose or bleeding?",
-      "options": {
-        "A": "Naloxone",
-        "B": "Protamine sulfate",
-        "C": "Vitamin K",
-        "D": "Flumazenil"
-      },
-      "id": 74
-    },
-    {
-      "question": "A nurse is educating a patient about their new prescription for metformin. Which of the following statements by the patient indicates a need for further teaching?",
-      "options": {
-        "A": "\"I should take this medication with meals.\"",
-        "B": "\"I may experience some nausea or diarrhea at first.\"",
-        "C": "\"I will stop taking it if my blood sugar gets too low.\"",
-        "D": "\"This medication will help my body use insulin more effectively.\""
-      },
-      "id": 75
-    },
-    {
-      "question": "Which of the following is a common side effect of opioid analgesics?",
+      "question": "Which of the following is a common adverse effect of opioid analgesics?",
       "options": {
         "A": "Diarrhea",
         "B": "Insomnia",
         "C": "Constipation",
-        "D": "Increased heart rate"
+        "D": "Nausea"
       },
-      "id": 76
+      "id": 38
     },
     {
-      "question": "A patient is prescribed atorvastatin. The nurse should instruct the patient to avoid consuming which of the following while taking this medication?",
+      "question": "A nurse is educating a patient about lansoprazole. This medication is primarily used to treat which condition?",
       "options": {
-        "A": "Citrus fruits",
-        "B": "Grapefruit juice",
-        "C": "Dairy products",
-        "D": "Leafy green vegetables"
+        "A": "Hypertension",
+        "B": "Gastroesophageal reflux disease (GERD)",
+        "C": "Infections",
+        "D": "Pain"
       },
-      "id": 77
+      "id": 39
     },
     {
-      "question": "Which medication is an example of a direct thrombin inhibitor and is often used for atrial fibrillation?",
+      "question": "A patient is prescribed amiodarone. The nurse should monitor for which of the following potentially serious adverse effects?",
       "options": {
-        "A": "Clopidogrel",
-        "B": "Warfarin",
-        "C": "Dabigatran",
-        "D": "Enoxaparin"
+        "A": "Hypokalemia",
+        "B": "Pulmonary fibrosis",
+        "C": "Hypoglycemia",
+        "D": "Tinnitus"
       },
-      "id": 78
+      "id": 40
     },
     {
-      "question": "A nurse is administering a loop diuretic, such as furosemide. Which electrolyte imbalance is the nurse most likely to monitor for?",
+      "question": "A nurse is administering lisinopril to a patient. Which of the following is a common adverse effect of ACE inhibitors?",
+      "options": {
+        "A": "Hypokalemia",
+        "B": "Bradycardia",
+        "C": "Dry cough",
+        "D": "Constipation"
+      },
+      "id": 41
+    },
+    {
+      "question": "A patient is prescribed warfarin for atrial fibrillation. What laboratory test is essential for monitoring the therapeutic effect of this medication?",
+      "options": {
+        "A": "PTT (Partial Thromboplastin Time)",
+        "B": "INR (International Normalized Ratio)",
+        "C": "Platelet count",
+        "D": "Serum creatinine"
+      },
+      "id": 42
+    },
+    {
+      "question": "A nurse is caring for a patient with severe pain due to a fractured femur. Which class of analgesic would be most appropriate for rapid pain relief?",
+      "options": {
+        "A": "NSAIDs",
+        "B": "Opioids",
+        "C": "Acetaminophen",
+        "D": "Anticonvulsants"
+      },
+      "id": 43
+    },
+    {
+      "question": "A patient is receiving regular insulin for diabetes mellitus. The nurse should instruct the patient to be aware of which potential adverse effect?",
+      "options": {
+        "A": "Hyperglycemia",
+        "B": "Hypoglycemia",
+        "C": "Increased appetite",
+        "D": "Weight gain"
+      },
+      "id": 44
+    },
+    {
+      "question": "A patient is prescribed furosemide, a loop diuretic. What electrolyte imbalance is a significant concern with this medication?",
       "options": {
         "A": "Hyperkalemia",
         "B": "Hyponatremia",
         "C": "Hypokalemia",
         "D": "Hypercalcemia"
       },
+      "id": 45
+    },
+    {
+      "question": "A nurse is administering digoxin to a patient with heart failure. Which assessment finding would require the nurse to hold the medication and notify the prescriber?",
+      "options": {
+        "A": "Blood pressure of 110/70 mmHg",
+        "B": "Heart rate of 52 beats per minute",
+        "C": "Oxygen saturation of 98%",
+        "D": "Edema of 1+ in the lower extremities"
+      },
+      "id": 46
+    },
+    {
+      "question": "A patient is taking atorvastatin for hyperlipidemia. What is the primary mechanism of action of statins?",
+      "options": {
+        "A": "Inhibiting cholesterol absorption in the intestine",
+        "B": "Decreasing the production of cholesterol in the liver",
+        "C": "Increasing the excretion of cholesterol in bile",
+        "D": "Blocking the action of PCSK9"
+      },
+      "id": 47
+    },
+    {
+      "question": "A patient is prescribed amoxicillin for a bacterial infection. What is a common adverse effect of penicillin-class antibiotics?",
+      "options": {
+        "A": "Tachycardia",
+        "B": "Rash",
+        "C": "Hypertension",
+        "D": "Dizziness"
+      },
+      "id": 48
+    },
+    {
+      "question": "A nurse is preparing to administer metoprolol, a beta-blocker, to a patient. Which assessment finding requires careful consideration before administration?",
+      "options": {
+        "A": "History of asthma",
+        "B": "Elevated heart rate",
+        "C": "Normal blood pressure",
+        "D": "Good exercise tolerance"
+      },
+      "id": 49
+    },
+    {
+      "question": "A patient is prescribed omeprazole for gastroesophageal reflux disease (GERD). What is the primary classification of this medication?",
+      "options": {
+        "A": "Antacid",
+        "B": "H2-receptor antagonist",
+        "C": "Proton pump inhibitor",
+        "D": "Gastrointestinal stimulant"
+      },
+      "id": 50
+    },
+    {
+      "question": "A nurse is administering digoxin to a patient with heart failure. Which of the following assessment findings would be most important to report to the healthcare provider before administering the dose?",
+      "options": {
+        "A": "Blood pressure of 130/80 mmHg",
+        "B": "Heart rate of 52 beats per minute",
+        "C": "Respiratory rate of 18 breaths per minute",
+        "D": "Oxygen saturation of 96% on room air"
+      },
+      "id": 51
+    },
+    {
+      "question": "A patient is prescribed warfarin for atrial fibrillation. The nurse is providing education about the medication. Which of the following foods should the nurse instruct the patient to consume in moderation?",
+      "options": {
+        "A": "Oranges",
+        "B": "Spinach",
+        "C": "Chicken breast",
+        "D": "Rice"
+      },
+      "id": 52
+    },
+    {
+      "question": "A patient is receiving intravenous vancomycin for a serious infection. The nurse should monitor the patient closely for which adverse effect, especially during rapid infusion?",
+      "options": {
+        "A": "Red man syndrome",
+        "B": "Hypoglycemia",
+        "C": "Photosensitivity",
+        "D": "Tinnitus"
+      },
+      "id": 53
+    },
+    {
+      "question": "A patient with asthma is prescribed albuterol via metered-dose inhaler. What is the primary mechanism of action of albuterol?",
+      "options": {
+        "A": "Blocks histamine release",
+        "B": "Stimulates beta2-adrenergic receptors",
+        "C": "Inhibits leukotriene synthesis",
+        "D": "Constricts bronchial smooth muscle"
+      },
+      "id": 54
+    },
+    {
+      "question": "A nurse is caring for a patient taking atorvastatin for hyperlipidemia. What is a common and important side effect the nurse should monitor for?",
+      "options": {
+        "A": "Hepatotoxicity",
+        "B": "Hypokalemia",
+        "C": "Bradycardia",
+        "D": "Hypertension"
+      },
+      "id": 55
+    },
+    {
+      "question": "A patient is prescribed metformin for type 2 diabetes. The nurse should instruct the patient to report which of the following symptoms immediately, as it may indicate lactic acidosis?",
+      "options": {
+        "A": "Increased thirst",
+        "B": "Frequent urination",
+        "C": "Muscle pain",
+        "D": "Blurred vision"
+      },
+      "id": 56
+    },
+    {
+      "question": "A patient is receiving a continuous infusion of a heparin drip. The nurse should monitor which laboratory value to assess the effectiveness of the medication?",
+      "options": {
+        "A": "Prothrombin time (PT)",
+        "B": "Activated partial thromboplastin time (aPTT)",
+        "C": "International normalized ratio (INR)",
+        "D": "Platelet count"
+      },
+      "id": 57
+    },
+    {
+      "question": "A patient is prescribed lisinopril for hypertension. This medication belongs to which drug class?",
+      "options": {
+        "A": "Beta-blockers",
+        "B": "Calcium channel blockers",
+        "C": "Angiotensin-converting enzyme (ACE) inhibitors",
+        "D": "Diuretics"
+      },
+      "id": 58
+    },
+    {
+      "question": "A nurse is administering morphine sulfate intravenously to a patient experiencing severe pain. The nurse should monitor for which of the following as a potentially life-threatening adverse effect?",
+      "options": {
+        "A": "Sedation",
+        "B": "Constipation",
+        "C": "Respiratory depression",
+        "D": "Nausea and vomiting"
+      },
+      "id": 59
+    },
+    {
+      "question": "A patient is prescribed furosemide, a loop diuretic. The nurse should assess which electrolyte imbalance as a common adverse effect?",
+      "options": {
+        "A": "Hyperkalemia",
+        "B": "Hyponatremia",
+        "C": "Hypokalemia",
+        "D": "Hypercalcemia"
+      },
+      "id": 60
+    },
+    {
+      "question": "A nurse is caring for a patient who is prescribed lisinopril for hypertension. Which of the following adverse effects should the nurse monitor for most closely?",
+      "options": {
+        "A": "Hypokalemia",
+        "B": "Hyperkalemia",
+        "C": "Bradycardia",
+        "D": "Hyponatremia"
+      },
+      "id": 61
+    },
+    {
+      "question": "A patient is admitted to the hospital with acute myocardial infarction and is prescribed nitroglycerin. What is the primary mechanism of action of nitroglycerin in treating myocardial infarction?",
+      "options": {
+        "A": "Increases heart rate and contractility",
+        "B": "Causes peripheral vasodilation, reducing preload and afterload",
+        "C": "Inhibits platelet aggregation",
+        "D": "Acts as a direct coronary artery vasodilator to increase oxygen supply"
+      },
+      "id": 62
+    },
+    {
+      "question": "A nurse is administering warfarin to a patient. Which laboratory test is essential for monitoring the therapeutic effectiveness of warfarin?",
+      "options": {
+        "A": "Partial thromboplastin time (PTT)",
+        "B": "International Normalized Ratio (INR)",
+        "C": "Platelet count",
+        "D": "D-dimer"
+      },
+      "id": 63
+    },
+    {
+      "question": "A patient is receiving intravenous furosemide. The nurse should closely monitor which electrolyte imbalance?",
+      "options": {
+        "A": "Hypercalcemia",
+        "B": "Hypomagnesemia",
+        "C": "Hypernatremia",
+        "D": "Hyponatremia"
+      },
+      "id": 64
+    },
+    {
+      "question": "A patient is prescribed metformin for type 2 diabetes. Which adverse effect is a contraindication for the use of metformin and requires immediate discontinuation of the medication?",
+      "options": {
+        "A": "Weight gain",
+        "B": "Hypoglycemia",
+        "C": "Lactic acidosis",
+        "D": "Nausea and vomiting"
+      },
+      "id": 65
+    },
+    {
+      "question": "A nurse is administering a beta-blocker, such as metoprolol, to a patient with heart failure. What is a critical assessment finding that would require withholding the medication and notifying the healthcare provider?",
+      "options": {
+        "A": "Blood pressure of 110/70 mmHg",
+        "B": "Heart rate of 55 beats per minute",
+        "C": "Peripheral edema",
+        "D": "Shortness of breath"
+      },
+      "id": 66
+    },
+    {
+      "question": "A patient is prescribed aspirin for cardiovascular prophylaxis. The nurse should educate the patient about the risk of which of the following adverse effects?",
+      "options": {
+        "A": "Hepatotoxicity",
+        "B": "Gastrointestinal bleeding",
+        "C": "Nephrotoxicity",
+        "D": "Ototoxicity"
+      },
+      "id": 67
+    },
+    {
+      "question": "A patient is receiving a bolus of intravenous heparin. The nurse anticipates that the antidote for heparin overdose would be:",
+      "options": {
+        "A": "Vitamin K",
+        "B": "Protamine sulfate",
+        "C": "N-acetylcysteine",
+        "D": "Flumazenil"
+      },
+      "id": 68
+    },
+    {
+      "question": "A nurse is administering a dose of acetaminophen to a patient. The nurse should instruct the patient to avoid consuming which substance concurrently due to an increased risk of liver toxicity?",
+      "options": {
+        "A": "Milk",
+        "B": "Alcohol",
+        "C": "Orange juice",
+        "D": "Water"
+      },
+      "id": 69
+    },
+    {
+      "question": "A patient is prescribed atorvastatin. The nurse should educate the patient that this medication works by:",
+      "options": {
+        "A": "Increasing the excretion of cholesterol in the stool",
+        "B": "Inhibiting the synthesis of cholesterol in the liver",
+        "C": "Increasing the breakdown of LDL cholesterol in the bloodstream",
+        "D": "Decreasing the absorption of dietary cholesterol"
+      },
+      "id": 70
+    },
+    {
+      "question": "A nurse is administering digoxin to a patient. Which assessment finding would prompt the nurse to hold the medication and notify the healthcare provider?",
+      "options": {
+        "A": "Blood pressure of 130/80 mmHg",
+        "B": "Apical pulse of 52 beats/min",
+        "C": "Potassium level of 3.8 mEq/L",
+        "D": "Urine output of 50 mL in the last hour"
+      },
+      "id": 71
+    },
+    {
+      "question": "A patient is prescribed warfarin for atrial fibrillation. The nurse is providing discharge instructions. Which statement by the patient indicates a need for further teaching?",
+      "options": {
+        "A": "\"I will need to have my blood tested regularly to check my clotting time.\"",
+        "B": "\"I should avoid eating large amounts of leafy green vegetables.\"",
+        "C": "\"I can take aspirin for pain relief if I need it.\"",
+        "D": "\"I will report any signs of bleeding or bruising to my doctor.\""
+      },
+      "id": 72
+    },
+    {
+      "question": "A patient with type 2 diabetes is started on metformin. The nurse educates the patient about potential side effects. Which side effect is most commonly associated with metformin?",
+      "options": {
+        "A": "Hypoglycemia",
+        "B": "Weight gain",
+        "C": "Gastrointestinal distress",
+        "D": "Peripheral edema"
+      },
+      "id": 73
+    },
+    {
+      "question": "A patient is receiving intravenous vancomycin for a serious infection. The nurse should monitor for which potential adverse effect, especially if the infusion is too rapid?",
+      "options": {
+        "A": "Red man syndrome",
+        "B": "Ototoxicity",
+        "C": "Nephrotoxicity",
+        "D": "Stevens-Johnson syndrome"
+      },
+      "id": 74
+    },
+    {
+      "question": "A patient is prescribed a beta-blocker, such as metoprolol, for hypertension. The nurse should instruct the patient to report which symptom, as it could indicate an adverse effect?",
+      "options": {
+        "A": "Increased heart rate",
+        "B": "Dizziness upon standing",
+        "C": "Bronchospasm or difficulty breathing",
+        "D": "Warm, flushed skin"
+      },
+      "id": 75
+    },
+    {
+      "question": "A patient is taking an ACE inhibitor, lisinopril. The nurse teaches the patient about common side effects. Which side effect is most characteristic of ACE inhibitors?",
+      "options": {
+        "A": "Hypokalemia",
+        "B": "Dry, hacking cough",
+        "C": "Angioedema",
+        "D": "Bradycardia"
+      },
+      "id": 76
+    },
+    {
+      "question": "A patient is prescribed a statin medication, such as atorvastatin, for hyperlipidemia. The nurse educates the patient about potential adverse effects. Which assessment finding is most concerning and requires immediate attention?",
+      "options": {
+        "A": "Mild headache",
+        "B": "Elevated liver enzymes",
+        "C": "Muscle pain or weakness",
+        "D": "Constipation"
+      },
+      "id": 77
+    },
+    {
+      "question": "A patient is receiving morphine sulfate for severe pain. The nurse anticipates that which is the most serious potential adverse effect of this opioid analgesic?",
+      "options": {
+        "A": "Nausea and vomiting",
+        "B": "Constipation",
+        "C": "Respiratory depression",
+        "D": "Sedation"
+      },
+      "id": 78
+    },
+    {
+      "question": "A patient is prescribed an anticoagulant like heparin. The nurse understands that the primary goal of anticoagulant therapy is to:",
+      "options": {
+        "A": "Dissolve existing blood clots",
+        "B": "Prevent the formation of new blood clots",
+        "C": "Increase platelet aggregation",
+        "D": "Speed up wound healing"
+      },
       "id": 79
     },
     {
-      "question": "What is the primary mechanism of action for proton pump inhibitors (PPIs) like omeprazole?",
+      "question": "A patient is prescribed a proton pump inhibitor (PPI), such as omeprazole, for GERD. The nurse should educate the patient about which potential long-term risk associated with prolonged PPI use?",
       "options": {
-        "A": "Blocking histamine receptors in the stomach",
-        "B": "Neutralizing stomach acid",
-        "C": "Inhibiting the parietal cell's proton pump to decrease acid production",
-        "D": "Coating the stomach lining to protect it from acid"
+        "A": "Increased risk of osteoporosis",
+        "B": "Decreased risk of pneumonia",
+        "C": "Reduced absorption of vitamin C",
+        "D": "Increased risk of peptic ulcers"
       },
       "id": 80
     },
     {
-      "question": "A nurse is administering digoxin to a patient with heart failure. Which assessment finding would the nurse prioritize before administering the medication?",
+      "question": "A nurse is administering a new prescription for warfarin to a patient. Which laboratory test is most crucial for monitoring the effectiveness and safety of this medication?",
       "options": {
-        "A": "Blood pressure of 140/88 mmHg",
-        "B": "Heart rate of 52 beats per minute",
-        "C": "Oxygen saturation of 94% on room air",
-        "D": "Potassium level of 4.2 mEq/L"
+        "A": "Complete Blood Count (CBC)",
+        "B": "Prothrombin Time (PT) and International Normalized Ratio (INR)",
+        "C": "Liver Function Tests (LFTs)",
+        "D": "Serum Creatinine"
       },
       "id": 81
     },
     {
-      "question": "A patient is prescribed warfarin for atrial fibrillation. The nurse is reviewing discharge instructions. Which statement by the patient indicates a need for further teaching?",
+      "question": "A patient with a history of asthma is prescribed albuterol. The nurse should instruct the patient to use this medication as:",
       "options": {
-        "A": "\"I will avoid consuming large amounts of leafy green vegetables.\"",
-        "B": "\"I should take my medication at the same time every day.\"",
-        "C": "\"I will report any signs of bleeding, such as black tarry stools, to my doctor.\"",
-        "D": "\"I can take over-the-counter ibuprofen for headaches without consulting my doctor.\""
+        "A": "A long-term daily controller for inflammation",
+        "B": "A rescue inhaler for acute bronchospasm",
+        "C": "An alternative to inhaled corticosteroids",
+        "D": "A medication to be taken only at bedtime"
       },
       "id": 82
     },
     {
-      "question": "A nurse is educating a patient newly diagnosed with type 2 diabetes about metformin. Which of the following is a common side effect the patient should be aware of?",
+      "question": "A nurse is providing education to a patient newly diagnosed with type 2 diabetes mellitus who will be starting metformin. Which of the following is a common adverse effect that the nurse should warn the patient about?",
       "options": {
-        "A": "Drowsiness",
-        "B": "Nausea and diarrhea",
-        "C": "Increased appetite",
-        "D": "Blurred vision"
+        "A": "Hypoglycemia",
+        "B": "Weight gain",
+        "C": "Gastrointestinal upset (diarrhea, nausea)",
+        "D": "Peripheral neuropathy"
       },
       "id": 83
     },
     {
-      "question": "A patient is receiving intravenous vancomycin for a serious staphylococcal infection. The nurse should monitor closely for which adverse effect, especially during rapid infusion?",
+      "question": "A patient is prescribed furosemide, a loop diuretic. The nurse understands that the primary mechanism of action for this medication is to:",
       "options": {
-        "A": "Red man syndrome",
-        "B": "Hypoglycemia",
-        "C": "Bronchospasm",
-        "D": "Bradycardia"
+        "A": "Inhibit the reabsorption of sodium and chloride in the ascending loop of Henle",
+        "B": "Promote potassium excretion in the distal tubules",
+        "C": "Increase the reabsorption of water in the collecting ducts",
+        "D": "Block the action of aldosterone in the kidneys"
       },
       "id": 84
     },
     {
-      "question": "A nurse is administering lisinopril, an ACE inhibitor, to a patient with hypertension. Which of the following is a common and important adverse effect to monitor for?",
+      "question": "A nurse is administering intravenous vancomycin to a patient. The nurse should anticipate monitoring which of the following adverse effects, particularly if the infusion is too rapid?",
       "options": {
-        "A": "Hypokalemia",
-        "B": "Hyperkalemia",
-        "C": "Dry cough",
-        "D": "Peripheral edema"
+        "A": "Ototoxicity",
+        "B": "Red man syndrome",
+        "C": "Nephrotoxicity",
+        "D": "Photosensitivity"
       },
       "id": 85
     }
@@ -855,512 +854,512 @@
   "answers": [
     {
       "correct_option": "B",
-      "explanation": "Warfarin is an anticoagulant that works by inhibiting vitamin K-dependent clotting factors. The PT/INR is the most common laboratory test used to monitor the therapeutic effectiveness and adjust the dosage of warfarin. The aPTT is used to monitor heparin therapy. Platelet count is monitored for thrombocytopenia. Hemoglobin and hematocrit are used to assess for anemia or blood loss.",
-      "subtopic": "Anticoagulants",
+      "explanation": "Lisinopril is an ACE inhibitor. A crucial assessment before administering ACE inhibitors is to check the patient's apical pulse rate and blood pressure to ensure they are within safe parameters and to evaluate the medication's intended therapeutic effect and potential for hypotension. Other options are important assessments but not as immediately critical for administration of this specific drug class as BP and pulse.",
+      "subtopic": "Antihypertensives",
       "id": 1
     },
     {
       "correct_option": "A",
-      "explanation": "Dizziness and dry cough are common side effects of ACE inhibitors like lisinopril. The dry cough is due to the accumulation of bradykinin. Nausea, vomiting, constipation, abdominal pain, rash, and itching can occur with various medications but are not the most characteristic side effects of ACE inhibitors.",
-      "subtopic": "Antihypertensives (ACE Inhibitors)",
+      "explanation": "Warfarin's effect can be antagonized by Vitamin K. Leafy green vegetables are a rich source of Vitamin K, so patients taking warfarin should avoid excessive intake of these foods to maintain consistent INR levels. Dairy products, citrus fruits, and red meat do not significantly affect warfarin's efficacy.",
+      "subtopic": "Anticoagulants",
       "id": 2
     },
     {
       "correct_option": "B",
-      "explanation": "Opioid analgesics can depress the central nervous system, leading to respiratory depression. Diarrhea is an adverse effect of laxatives, not opioids. Opioids can cause constipation, not diarrhea. Opioids typically slow the heart rate (bradycardia) and can cause sedation and drowsiness, not insomnia.",
-      "subtopic": "Analgesics (Opioids)",
+      "explanation": "Red man syndrome is a hypersensitivity reaction characterized by flushing and itching, especially of the face and neck, and can occur with rapid intravenous infusion of vancomycin. Photosensitivity is associated with other drug classes. Tinnitus and peripheral neuropathy are potential adverse effects of vancomycin but are typically associated with higher doses or prolonged therapy, not usually immediate infusion reactions.",
+      "subtopic": "Antibiotics",
       "id": 3
     },
     {
-      "correct_option": "C",
-      "explanation": "Heparin is an anticoagulant whose therapeutic effect is monitored by the activated partial thromboplastin time (aPTT). The PT is used for warfarin monitoring. The INR is also used for warfarin monitoring. Fibrinogen levels are related to clotting and are not the primary monitoring parameter for heparin therapy.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "B",
+      "explanation": "Metoprolol, a beta-blocker, can cause bronchoconstriction and exacerbate asthma symptoms. Therefore, it is generally contraindicated in patients with a history of asthma. While diabetes, GERD, and osteoporosis are conditions that require careful monitoring with beta-blockers, they are not absolute contraindications.",
+      "subtopic": "Antihypertensives",
       "id": 4
     },
     {
-      "correct_option": "C",
-      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of sodium and chloride, leading to increased excretion of these electrolytes and water. This also leads to increased potassium excretion, putting the patient at risk for hypokalemia. Hyperkalemia is typically associated with potassium-sparing diuretics. Hypernatremia and hypomagnesemia can also occur, but hypokalemia is the most common and significant electrolyte imbalance to monitor.",
-      "subtopic": "Diuretics",
+      "correct_option": "D",
+      "explanation": "Codeine is considered a weaker opioid analgesic compared to hydromorphone, fentanyl, and meperidine. It is often used for mild to moderate pain. The other options are potent opioids with a higher risk of respiratory depression and dependence.",
+      "subtopic": "Analgesics",
       "id": 5
     },
     {
       "correct_option": "C",
-      "explanation": "Antibiotics are a class of drugs used to treat bacterial infections by killing or inhibiting the growth of bacteria. Antivirals are used for viral infections, antifungals for fungal infections, and antiparasitics for parasitic infections.",
-      "subtopic": "Anti-infectives",
+      "explanation": "Furosemide, a loop diuretic, promotes the excretion of potassium, which can lead to hypokalemia. Close monitoring of the patient's potassium level is essential to prevent complications such as cardiac arrhythmias. While furosemide can affect sodium and magnesium, potassium is the most critical electrolyte to monitor.",
+      "subtopic": "Diuretics",
       "id": 6
     },
     {
-      "correct_option": "C",
-      "explanation": "Statins, like simvastatin, can cause liver damage. Therefore, liver enzymes (ALT, AST) are monitored to detect potential hepatotoxicity. BUN and creatinine monitor kidney function. The white blood cell count monitors for infection or inflammation.",
+      "correct_option": "B",
+      "explanation": "Myopathy, including muscle pain, weakness, and tenderness, is a significant and potentially serious adverse effect of statins like atorvastatin. Patients should be instructed to report these symptoms immediately as it could indicate rhabdomyolysis. Headache, nausea, and dizziness are common side effects but not as critical as muscle pain.",
       "subtopic": "Lipid-Lowering Agents",
       "id": 7
     },
     {
       "correct_option": "C",
-      "explanation": "Metoprolol is a beta-adrenergic blocker that works by blocking the effects of adrenaline, leading to a decrease in heart rate and blood pressure, thus treating hypertension. Hydrochlorothiazide is a thiazide diuretic. Amlodipine is a calcium channel blocker. Losartan is an angiotensin II receptor blocker (ARB).",
-      "subtopic": "Antihypertensives",
+      "explanation": "An itchy rash during antibiotic administration is a sign of a potential allergic reaction. The priority nursing action is to stop the infusion immediately to prevent a more severe reaction, such as anaphylaxis. Administering an antihistamine or continuing to monitor would delay necessary intervention. Documenting without stopping the infusion is not safe.",
+      "subtopic": "Antibiotics",
       "id": 8
     },
     {
       "correct_option": "C",
-      "explanation": "Metformin carries a risk of lactic acidosis, particularly in patients with impaired renal function. This is a serious adverse effect that requires careful monitoring of kidney function. While hypoglycemia can occur with some diabetes medications, it is less common with metformin unless combined with other agents or in specific circumstances. Metformin is typically taken with meals to reduce gastrointestinal side effects and improve absorption. It is a maintenance medication, not an 'as needed' drug for high blood sugar.",
-      "subtopic": "Antidiabetics",
+      "explanation": "Proton pump inhibitors (PPIs) work by irreversibly blocking the H+/K+-ATPase enzyme system (the proton pump) in gastric parietal cells, thereby significantly reducing the secretion of hydrochloric acid. Antacids neutralize acid, H2 blockers block histamine receptors, and prokinetics increase motility.",
+      "subtopic": "Gastrointestinal Agents",
       "id": 9
     },
     {
-      "correct_option": "B",
-      "explanation": "Short-acting beta-agonists like albuterol are bronchodilators used for the rapid relief of bronchospasm and wheezing during an acute asthma attack. They are not intended for long-term prevention or reducing inflammation. Cough suppression is not their primary function.",
-      "subtopic": "Respiratory Medications (Bronchodilators)",
+      "correct_option": "C",
+      "explanation": "Insulin lispro is a rapid-acting insulin with an onset of action of about 15 minutes, a peak effect within 30-90 minutes, and a duration of 3-5 hours. Long-acting insulin has no significant peak, intermediate-acting insulin peaks in 4-12 hours, and short-acting insulin peaks in 2-5 hours.",
+      "subtopic": "Antidiabetics",
       "id": 10
     },
     {
       "correct_option": "B",
-      "explanation": "Nitroglycerin is a potent vasodilator. By dilating peripheral veins and arteries, it reduces venous return to the heart (preload) and resistance to ventricular ejection (afterload), thereby decreasing myocardial workload and oxygen demand. Option A describes beta-blockers. Option C describes phosphodiesterase inhibitors used for erectile dysfunction or heart failure. Option D describes ARBs.",
-      "subtopic": "Cardiovascular Pharmacology",
+      "explanation": "Lisinopril is an ACE inhibitor, which blocks the enzyme that converts angiotensin I to angiotensin II. Angiotensin II is a potent vasoconstrictor and stimulates aldosterone release, so blocking its formation leads to vasodilation and decreased blood pressure. Option A is incorrect because ACE inhibitors do not directly dilate peripheral blood vessels as their primary mechanism. Option C describes the action of thiazide diuretics. Option D describes the action of beta-blockers.",
+      "subtopic": "Antihypertensives",
       "id": 11
     },
     {
-      "correct_option": "C",
-      "explanation": "Warfarin is an anticoagulant that interferes with vitamin K metabolism. Vitamin K is found in high concentrations in leafy green vegetables. Consuming large amounts of these vegetables can counteract the effects of warfarin, leading to a decrease in the international normalized ratio (INR). Monitoring potassium is important for diuretics. Administering warfarin with food does not significantly improve absorption. LFTs are important, but not the most crucial dietary interaction to educate on.",
+      "correct_option": "A",
+      "explanation": "Warfarin is an anticoagulant that works by inhibiting vitamin K-dependent clotting factors. The PT and INR are used to monitor the effectiveness of warfarin, aiming for a specific therapeutic range to prevent clotting while minimizing bleeding risk. Option B (PTT) is used to monitor heparin. Option C (platelet count) is relevant for antiplatelet medications. Option D (creatinine clearance) assesses kidney function, which is important for many medications but not the primary monitoring tool for warfarin's therapeutic effect.",
       "subtopic": "Anticoagulants",
       "id": 12
     },
     {
-      "correct_option": "D",
-      "explanation": "Lisinopril is an ACE inhibitor. A significant elevation in serum creatinine can indicate impaired renal function, which is a contraindication for or requires dose adjustment of ACE inhibitors as they can further worsen kidney function. A BP of 130/85 is within a range that might be treated by lisinopril. Heart rate of 78 is normal. A dry cough is a common side effect of ACE inhibitors but not as critical as potential renal damage.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "B",
+      "explanation": "Red man syndrome is a hypersensitivity reaction characterized by flushing and pruritus, particularly of the face and neck, that can occur with rapid intravenous administration of vancomycin. Option A (hypoglycemia) is not a typical side effect. Option C (tinnitus) is a sign of ototoxicity, which can occur with vancomycin but is not as common as red man syndrome with IV administration. Option D (photosensitivity) is more associated with tetracyclines and some other antibiotic classes.",
+      "subtopic": "Antibiotics",
       "id": 13
     },
     {
       "correct_option": "C",
-      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of sodium and chloride in the loop of Henle, leading to increased excretion of these electrolytes along with potassium and water. This can result in hypokalemia. Hyperkalemia is typically associated with potassium-sparing diuretics or ACE inhibitors. Hyponatremia can occur, but hypokalemia is more common and directly linked to potassium loss. Hypercalcemia is not a typical side effect.",
-      "subtopic": "Diuretics",
+      "explanation": "Opioid analgesics work by binding to opioid receptors in the central nervous system, which can depress respiratory drive. This is a serious and potentially life-threatening adverse effect. Diarrhea is typically treated with opioids, not caused by them. Hypertension is not a common side effect; hypotension can occur. Insomnia is not a typical side effect; sedation is more common.",
+      "subtopic": "Analgesics",
       "id": 14
     },
     {
       "correct_option": "C",
-      "explanation": "Prednisone is a corticosteroid that suppresses the immune system, making the patient more susceptible to infections. Therefore, it is crucial to advise the patient to avoid contact with individuals who have active infections. Corticosteroids should be tapered off gradually, not stopped abruptly. While some corticosteroids can be taken with food to reduce gastric irritation, it's not the most critical instruction here. Increasing calcium intake is important for long-term steroid use to prevent osteoporosis, but avoiding infections is paramount during treatment.",
-      "subtopic": "Corticosteroids",
+      "explanation": "Albuterol is a short-acting beta-agonist (SABA) that provides rapid relief of bronchoconstriction by relaxing the smooth muscles of the airways. Long-acting beta-agonists are used for maintenance therapy. Corticosteroids reduce inflammation, and leukotriene modifiers block the action of leukotrienes, which contribute to inflammation and bronchoconstriction.",
+      "subtopic": "Respiratory Medications",
       "id": 15
     },
     {
       "correct_option": "B",
-      "explanation": "Metoprolol is a selective beta-1 adrenergic receptor blocker. By blocking beta-1 receptors, it decreases heart rate, contractility, and conduction velocity, which reduces myocardial oxygen demand and lowers blood pressure. Option A describes ACE inhibitors. Option C describes calcium channel blockers. Option D describes diuretics.",
-      "subtopic": "Antihypertensives/Cardiovascular Pharmacology",
+      "explanation": "Furosemide is a loop diuretic that promotes the excretion of potassium. Hypokalemia (low potassium) is a common and potentially serious adverse effect. Monitoring the patient's potassium level is crucial before administration to identify pre-existing hypokalemia or to establish a baseline. While other assessments are important for patient care, the potassium level is the most critical pre-administration check for furosemide.",
+      "subtopic": "Diuretics",
       "id": 16
     },
     {
       "correct_option": "B",
-      "explanation": "Red Man Syndrome is a hypersensitivity reaction to vancomycin that is characterized by flushing, erythema, and pruritus, typically on the face and neck. It is often caused by the rapid infusion of the medication. Infusing vancomycin over at least 60 minutes helps to prevent this reaction. Rapid infusion is incorrect. Continuous temperature monitoring is not specific to preventing Red Man Syndrome. A prophylactic antihistamine might be used, but proper infusion rate is the primary preventative measure.",
-      "subtopic": "Antibiotics",
+      "explanation": "Atorvastatin belongs to the statin class of medications, which work by inhibiting HMG-CoA reductase, a key enzyme in cholesterol synthesis in the liver. This reduces the production of cholesterol and helps lower LDL (\"bad\") cholesterol levels. Options A, C, and D describe the actions of antihypertensives, anticoagulants, and antibiotics, respectively.",
+      "subtopic": "Lipid-Lowering Agents",
       "id": 17
     },
     {
       "correct_option": "B",
-      "explanation": "Atorvastatin belongs to the statin class of drugs, which are HMG-CoA reductase inhibitors. Their primary action is to inhibit cholesterol synthesis in the liver, leading to lower LDL cholesterol levels and a reduced risk of cardiovascular events. Option A describes thrombolytics. Option C describes anti-inflammatory drugs like NSAIDs or corticosteroids. Option D describes antidiabetic medications.",
-      "subtopic": "Lipid-Lowering Agents",
+      "explanation": "Beta-blockers, such as metoprolol, can cause bronchoconstriction by blocking beta-2 receptors in the lungs. Therefore, patients with asthma or severe bronchospasm should not receive beta-blockers due to the risk of exacerbating their respiratory condition. Hypertension, heart failure, and myocardial infarction are conditions for which beta-blockers may be prescribed.",
+      "subtopic": "Antihypertensives",
       "id": 18
     },
     {
       "correct_option": "C",
-      "explanation": "Morphine is a potent opioid analgesic that can cause significant respiratory depression by depressing the medullary respiratory centers. Tachycardia, hypertension, and nausea/vomiting can occur but are less life-threatening than respiratory depression. Monitoring respiratory rate and depth is critical.",
-      "subtopic": "Analgesics (Opioids)",
+      "explanation": "Insulin lispro is a rapid-acting insulin that begins to work quickly and should be administered 15-30 minutes before meals to cover the rise in blood glucose that occurs after eating. Administering it with or after meals can lead to hypoglycemia. Option A is slightly too early for optimal coverage. Option D is too late and would not effectively cover the meal's glucose load.",
+      "subtopic": "Antidiabetics",
       "id": 19
     },
     {
       "correct_option": "C",
-      "explanation": "Albuterol is a short-acting beta-2 adrenergic agonist. When inhaled, it binds to beta-2 receptors in the bronchial smooth muscle, leading to relaxation and bronchodilation, which opens up the airways. Option A describes inhaled corticosteroids. Option B describes expectorants. Option D describes long-acting beta-agonists or inhaled corticosteroids which are used for long-term control.",
-      "subtopic": "Respiratory Pharmacology",
+      "explanation": "Metformin is a biguanide that primarily works by decreasing hepatic glucose production and increasing insulin sensitivity. A rare but serious adverse effect of metformin is lactic acidosis, particularly in patients with impaired kidney function or other risk factors. Hypoglycemia can occur, but it is less common with metformin alone compared to other antidiabetic agents. Weight gain is not a typical side effect; weight loss or maintenance is more common. Increased appetite is also not a typical side effect.",
+      "subtopic": "Antidiabetics",
       "id": 20
     },
     {
-      "correct_option": "C",
-      "explanation": "Furosemide is a loop diuretic that can cause significant fluid and electrolyte imbalances, including hypovolemia and hypotension. Monitoring blood pressure is crucial to detect a precipitous drop.",
-      "subtopic": "Diuretics",
+      "correct_option": "B",
+      "explanation": "Warfarin is an anticoagulant that works by inhibiting vitamin K-dependent clotting factors. The PT and INR are laboratory tests used to monitor the effectiveness of warfarin therapy, ensuring the blood is not too thin (risk of bleeding) or too thick (risk of clotting). A CBC monitors red blood cells, white blood cells, and platelets. BUN and creatinine assess kidney function. A lipid profile assesses cholesterol levels.",
+      "subtopic": "Anticoagulants",
       "id": 21
     },
     {
-      "correct_option": "B",
-      "explanation": "Spinach is rich in Vitamin K, which can counteract the anticoagulant effects of warfarin. Consuming large amounts of Vitamin K-rich foods can decrease warfarin's effectiveness. Oranges, apples, and chicken breast do not have this significant interaction.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "D",
+      "explanation": "Furosemide, a loop diuretic, works by inhibiting the reabsorption of sodium and chloride in the loop of Henle, leading to increased excretion of these electrolytes and water. This process also leads to the loss of potassium, potentially causing hypokalemia. Hyperkalemia is more commonly associated with potassium-sparing diuretics. Hyponatremia can occur with loop diuretics, but hypokalemia is a more direct and frequently monitored concern. Hypercalcemia is not a primary concern with furosemide; in fact, it can sometimes lead to hypocalcemia.",
+      "subtopic": "Diuretics",
       "id": 22
     },
     {
-      "correct_option": "D",
-      "explanation": "A heart rate below 60 beats/min is a common indication to withhold digoxin as it can lead to bradycardia and digitalis toxicity. A heart rate of 72 is within normal limits. Normal potassium levels are important for digoxin efficacy and safety, but 4.0 mEq/L is normal. Blood pressure is not a primary indicator for withholding digoxin.",
-      "subtopic": "Cardiac Glycosides",
+      "correct_option": "B",
+      "explanation": "Metformin's primary actions are to decrease the amount of glucose produced by the liver (hepatic glucose production) and to increase the sensitivity of peripheral tissues to insulin. It does not stimulate insulin secretion directly, nor does it block glucose reabsorption in the kidneys (like SGLT2 inhibitors) or mimic incretin hormones (like GLP-1 receptor agonists).",
+      "subtopic": "Antidiabetics",
       "id": 23
     },
     {
-      "correct_option": "B",
-      "explanation": "A persistent dry cough is a common and bothersome side effect of ACE inhibitors. Increased appetite, drowsiness, and blurred vision are not characteristic side effects of this drug class.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "A",
+      "explanation": "Gentamicin, an aminoglycoside antibiotic, is known for its potential ototoxicity (damage to the auditory nerve, causing hearing loss or tinnitus) and nephrotoxicity (damage to the kidneys). Monitoring serum drug levels, renal function (BUN, creatinine), and auditory function is crucial. Aminoglycosides are not typically taken with milk, and while adequate hydration is generally good, the primary concern is toxicity, not constipation or hyperglycemia.",
+      "subtopic": "Antibiotics",
       "id": 24
     },
     {
-      "correct_option": "B",
-      "explanation": "Statins can cause hepatotoxicity, and elevated liver enzymes like ALT are an indicator of this adverse effect. BUN is related to kidney function, WBC count to infection, and Hemoglobin A1c to glucose control, none of which are the primary indicators of statin-induced liver damage.",
-      "subtopic": "Lipid-Lowering Agents",
+      "correct_option": "C",
+      "explanation": "Opioid agonists are potent analgesics used for moderate to severe pain. NSAIDs are effective for mild to moderate pain and inflammation. Acetaminophen is effective for mild to moderate pain and fever but has limited anti-inflammatory effects. Topical anesthetics are used for localized pain relief.",
+      "subtopic": "Analgesics",
       "id": 25
     },
     {
-      "correct_option": "B",
-      "explanation": "Heparin is an anticoagulant, and its therapeutic effect is monitored by the activated partial thromboplastin time (aPTT), which should be within the therapeutic range (typically 1.5 to 2.5 times the control value). PT and INR are used to monitor warfarin therapy. Platelet count is important to monitor for heparin-induced thrombocytopenia (HIT), but not for therapeutic effect.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "C",
+      "explanation": "Lisinopril belongs to the class of Angiotensin-Converting Enzyme (ACE) inhibitors. These drugs work by blocking the conversion of angiotensin I to angiotensin II, a potent vasoconstrictor, leading to vasodilation and reduced blood pressure. Beta-blockers block the effects of adrenaline. Calcium channel blockers block calcium from entering heart and blood vessel cells. Diuretics increase urine output.",
+      "subtopic": "Antihypertensives",
       "id": 26
     },
     {
-      "correct_option": "C",
-      "explanation": "Beta-blockers can cause bradycardia by slowing the heart rate. Therefore, assessing the apical pulse rate before administering is crucial to ensure it is not already too low.",
-      "subtopic": "Beta-Blockers",
+      "correct_option": "A",
+      "explanation": "After using an inhaled corticosteroid like albuterol, it is essential to rinse the mouth with water. This helps to remove any residual medication from the mouth, preventing oral candidiasis (thrush) and reducing the taste of the medication. Holding breath for 10 seconds and exhaling fully are part of the correct inhalation technique. Shaking the inhaler is also part of the technique, but rinsing the mouth is the crucial post-inhalation action to prevent side effects.",
+      "subtopic": "Bronchodilators",
       "id": 27
     },
     {
-      "correct_option": "B",
-      "explanation": "Long-term use of PPIs has been associated with a decreased absorption of calcium and magnesium, leading to an increased risk of osteoporosis and fractures. Increased risk of kidney stones, skin cancer, and liver damage are not the primary or most commonly cited long-term side effects of PPIs.",
-      "subtopic": "Proton Pump Inhibitors",
+      "correct_option": "C",
+      "explanation": "Atorvastatin is a statin, a class of drugs primarily used to lower cholesterol levels in the blood, particularly LDL cholesterol, thereby reducing the risk of cardiovascular disease. It does not primarily treat high blood pressure, bacterial infections, or prevent blood clots.",
+      "subtopic": "Antilipemics",
       "id": 28
     },
     {
-      "correct_option": "B",
-      "explanation": "Epinephrine is the first-line medication for treating anaphylaxis, a severe allergic reaction. It is a bronchodilator and vasoconstrictor that can reverse life-threatening symptoms. Acetaminophen is an analgesic and antipyretic. Lidocaine is a local anesthetic. Salmeterol is a long-acting beta-agonist for asthma.",
-      "subtopic": "Antihistamines/Anaphylaxis Management",
+      "correct_option": "D",
+      "explanation": "Digoxin is a cardiac glycoside that slows the heart rate. Before administering digoxin, the nurse must assess the apical pulse rate for a full minute. If the apical pulse is less than 60 beats per minute (or as per facility protocol), the medication should be withheld to prevent bradycardia and potential digoxin toxicity. Respiratory rate, blood pressure, and temperature are important vital signs but not the primary ones to assess before administering digoxin.",
+      "subtopic": "Cardiac Glycosides",
       "id": 29
     },
     {
-      "correct_option": "C",
-      "explanation": "Respiratory depression is a life-threatening adverse effect of opioid analgesics, which can lead to hypoxemia and respiratory arrest. While dry mouth, constipation, and nausea/vomiting are common side effects, respiratory depression is the most critical to monitor for and manage proactively.",
-      "subtopic": "Opioid Analgesics",
+      "correct_option": "B",
+      "explanation": "Epinephrine is the first-line medication for anaphylaxis. It acts as a vasoconstrictor, bronchodilator, and reduces swelling, counteracting the life-threatening effects of an allergic reaction. Diphenhydramine (an antihistamine) and corticosteroids are often used as adjunctive treatments, but epinephrine provides immediate relief of airway obstruction and cardiovascular collapse. Albuterol is used for bronchospasm but is not sufficient for a severe anaphylactic reaction.",
+      "subtopic": "Anaphylaxis Management",
       "id": 30
     },
     {
-      "correct_option": "B",
-      "explanation": "Digoxin can cause bradycardia. A heart rate below 60 beats per minute in adults is a critical finding that requires withholding the dose and notifying the prescriber, as it may indicate toxicity. A BP of 110/70 is within normal limits. A potassium level of 3.8 mEq/L is within the normal range (3.5-5.0 mEq/L), and hypokalemia can potentiate digoxin toxicity. Mild nausea can be a side effect but is less critical than bradycardia.",
-      "subtopic": "Cardiovascular Medications",
+      "correct_option": "C",
+      "explanation": "Before administering digoxin, it is crucial to assess the apical pulse rate for a full minute. Digoxin can cause bradycardia, and if the pulse is less than 60 beats per minute (or as per facility policy), the medication should be withheld. Blood pressure is monitored, but not as critical for immediate withholding decisions. Respiratory rate and pupillary reaction are not directly affected by digoxin in a way that necessitates immediate withholding.",
+      "subtopic": "Cardiac Glycosides",
       "id": 31
     },
     {
       "correct_option": "B",
-      "explanation": "Warfarin is an anticoagulant that works by inhibiting vitamin K. Foods high in vitamin K, such as spinach and other leafy green vegetables, can decrease the effectiveness of warfarin. The client should consume these foods consistently in moderate amounts rather than eliminating them completely, and notify their provider of significant changes in intake. Apples, chicken, and rice do not significantly interfere with warfarin's action.",
+      "explanation": "Warfarin is an anticoagulant that inhibits the synthesis of vitamin K-dependent clotting factors, increasing the risk of bleeding. Bruising and bleeding are common signs and symptoms of this adverse effect. Hypoglycemia, hyperkalemia, and photosensitivity are not common adverse effects of warfarin.",
       "subtopic": "Anticoagulants",
       "id": 32
     },
     {
-      "correct_option": "D",
-      "explanation": "Lisinopril is an ACE inhibitor, and a common and potentially serious side effect is a dry, persistent cough, which can be due to the accumulation of bradykinin. Bradycardia is more associated with beta-blockers. Hypokalemia is a side effect of diuretics. Hyperglycemia is not a common side effect of lisinopril.",
+      "correct_option": "B",
+      "explanation": "Diuretics, such as thiazide diuretics and loop diuretics, are commonly prescribed as a first-line treatment for hypertension by reducing fluid volume and thus blood pressure. Opioid analgesics are for pain, bronchodilators for respiratory conditions, and anticonvulsants for seizures.",
       "subtopic": "Antihypertensives",
       "id": 33
     },
     {
-      "correct_option": "B",
-      "explanation": "Metformin is a biguanide that primarily works by decreasing hepatic glucose production, which reduces the amount of glucose released into the bloodstream. It also increases insulin sensitivity in peripheral tissues. It does not directly stimulate insulin release from the pancreas, nor does it increase glucose reabsorption or block insulin action.",
-      "subtopic": "Antidiabetic Agents",
+      "correct_option": "A",
+      "explanation": "Atorvastatin is a statin medication used to lower cholesterol. A significant and potentially serious adverse effect of statins is myopathy, which can manifest as muscle pain and weakness. Increased appetite, bradycardia, and dizziness are not typical or primary adverse effects of atorvastatin.",
+      "subtopic": "Lipid-Lowering Agents",
       "id": 34
     },
     {
-      "correct_option": "A",
-      "explanation": "Red man syndrome is a hypersensitivity reaction that can occur with rapid intravenous infusion of vancomycin, characterized by flushing, erythema, and itching, especially of the face and neck. Photosensitivity is associated with tetracyclines. Hepatotoxicity is a concern with some antibiotics but not a primary concern with vancomycin. Tinnitus is a sign of ototoxicity, which can occur with vancomycin but red man syndrome is more common with rapid infusion.",
-      "subtopic": "Anti-infectives",
+      "correct_option": "C",
+      "explanation": "Activated partial thromboplastin time (aPTT) is the laboratory test used to monitor the therapeutic effectiveness of unfractionated heparin. PT and INR are used to monitor warfarin therapy. While a platelet count is monitored for heparin-induced thrombocytopenia (HIT), it does not assess the therapeutic anticoagulation level.",
+      "subtopic": "Anticoagulants",
       "id": 35
     },
     {
-      "correct_option": "A",
-      "explanation": "Muscle pain, tenderness, or weakness (myopathy), particularly when accompanied by fever or malaise, is a serious adverse effect of statins called rhabdomyolysis, which can lead to kidney damage. This requires immediate discontinuation of the medication and reporting to the prescriber. Constipation, headache, and dizziness are generally milder side effects that may or may not require intervention.",
-      "subtopic": "Lipid-Lowering Agents",
+      "correct_option": "B",
+      "explanation": "Albuterol is a short-acting beta-2 adrenergic agonist that stimulates beta-2 receptors in the lungs, causing bronchodilation and relieving bronchospasm. Corticosteroids reduce inflammation, antihistamines block histamine, and leukotriene modifiers inhibit the action of leukotrienes; these are different classes of respiratory medications.",
+      "subtopic": "Bronchodilators",
       "id": 36
     },
     {
       "correct_option": "A",
-      "explanation": "Albuterol is a short-acting beta-agonist (SABA) bronchodilator used for quick relief of bronchospasm. It should be used as needed for symptoms of shortness of breath or wheezing. Routine daily use without symptoms is not indicated, and the other options describe scheduled administration patterns.",
-      "subtopic": "Respiratory Medications",
+      "explanation": "Metformin is a biguanide used to treat type 2 diabetes. Alcohol consumption, especially in large amounts, can increase the risk of lactic acidosis, a rare but serious side effect of metformin. Grapefruit interaction is typically associated with statins. Dairy products and sunlight exposure are not contraindications for metformin.",
+      "subtopic": "Antidiabetics",
       "id": 37
     },
     {
-      "correct_option": "B",
-      "explanation": "Opioid analgesics, such as morphine sulfate, can cause respiratory depression. Therefore, monitoring the respiratory rate is the most critical assessment after administration to ensure the client's airway remains patent and they are breathing adequately. Pulse oximetry is also important but the direct assessment of the respiratory rate provides essential information about the depth and rate of breathing. Blood pressure can decrease but is less immediately life-threatening than respiratory arrest. Temperature is not a primary concern.",
+      "correct_option": "C",
+      "explanation": "Constipation is a very common adverse effect of opioid analgesics due to their effect on opioid receptors in the gastrointestinal tract, slowing down peristalsis. Diarrhea, insomnia, and nausea can occur with other medications, but constipation is a hallmark adverse effect of opioids. Nausea can also occur, but constipation is more consistently present.",
       "subtopic": "Analgesics",
       "id": 38
     },
     {
-      "correct_option": "C",
-      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of electrolytes, including potassium, in the kidneys. Therefore, hypokalemia is a common and important adverse effect that the nurse should monitor closely. Hyperkalemia is more associated with potassium-sparing diuretics. Hyponatremia can occur with diuretics but hypokalemia is generally more significant with furosemide. Hypercalcemia is not typically associated with furosemide; it can actually cause hypocalcemia.",
-      "subtopic": "Diuretics",
+      "correct_option": "B",
+      "explanation": "Lansoprazole is a proton pump inhibitor (PPI) that reduces the production of stomach acid, making it effective for treating conditions like GERD, peptic ulcers, and Zollinger-Ellison syndrome. It is not used for hypertension, infections, or primarily for pain management.",
+      "subtopic": "Proton Pump Inhibitors",
       "id": 39
     },
     {
-      "correct_option": "C",
-      "explanation": "Heparin is an anticoagulant that works by activating antithrombin III, which inhibits thrombin and Factor Xa. The activated partial thromboplastin time (aPTT) is the laboratory test used to monitor the therapeutic effect of heparin, as it measures the intrinsic and common pathways of coagulation, which are affected by heparin. The prothrombin time (PT) and INR are used to monitor warfarin therapy. A platelet count is monitored to assess for heparin-induced thrombocytopenia (HIT), which is a serious adverse effect but not the primary measure of therapeutic effectiveness.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "B",
+      "explanation": "Amiodarone is an antiarrhythmic medication that can have serious pulmonary, cardiac, and hepatic side effects. Pulmonary fibrosis is a potentially severe and irreversible adverse effect associated with long-term amiodarone use. Hypokalemia, hypoglycemia, and tinnitus are not as characteristic or concerning as pulmonary toxicity.",
+      "subtopic": "Antiarrhythmics",
       "id": 40
     },
     {
-      "correct_option": "A",
-      "explanation": "Warfarin is an anticoagulant that works by inhibiting vitamin K-dependent clotting factors. The PT and INR are laboratory tests specifically used to monitor the effectiveness of warfarin therapy. A therapeutic INR range is established for patients on warfarin to balance the risk of clotting with the risk of bleeding.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "C",
+      "explanation": "A dry cough is a common and characteristic adverse effect of ACE inhibitors, caused by the accumulation of bradykinin. Hypokalemia is more common with diuretics, bradycardia can be seen with beta-blockers, and constipation is more associated with opioids.",
+      "subtopic": "Antihypertensives",
       "id": 41
     },
     {
       "correct_option": "B",
-      "explanation": "Furosemide is a loop diuretic that promotes the excretion of sodium and water. This can lead to hyponatremia (low sodium levels) as well as other electrolyte imbalances like hypokalemia and hypocalcemia. Hyperkalemia is typically associated with potassium-sparing diuretics.",
-      "subtopic": "Diuretics",
+      "explanation": "Warfarin is an anticoagulant that works by inhibiting vitamin K-dependent clotting factors. The INR is the standard laboratory test used to monitor the therapeutic effect and safety of warfarin therapy. PTT is used to monitor heparin therapy. Platelet count and serum creatinine are important but not the primary indicators for warfarin efficacy.",
+      "subtopic": "Anticoagulants",
       "id": 42
     },
     {
-      "correct_option": "C",
-      "explanation": "Beta-adrenergic blockers work by blocking the effects of epinephrine and norepinephrine on the heart, which slows the heart rate. Therefore, bradycardia is a common and expected adverse effect. Tachycardia, hypertension, and hyperthermia are not typical side effects of beta-blockers.",
-      "subtopic": "Cardiovascular Agents",
+      "correct_option": "B",
+      "explanation": "Opioids are potent analgesics that are effective for managing severe pain. NSAIDs are effective for mild to moderate pain, acetaminophen is for mild to moderate pain and fever, and anticonvulsants are typically used for neuropathic pain.",
+      "subtopic": "Analgesics",
       "id": 43
     },
     {
       "correct_option": "B",
-      "explanation": "Nitroglycerin is a potent vasodilator. By dilating the coronary arteries, it increases oxygen supply to the myocardium. It also causes peripheral vasodilation, which reduces venous return (preload) and systemic vascular resistance (afterload), thereby decreasing the workload of the heart and its oxygen demand. Options A, C, and D describe effects opposite to nitroglycerin's action.",
-      "subtopic": "Antianginals",
+      "explanation": "Insulin lowers blood glucose levels. Therefore, hypoglycemia (low blood sugar) is a potential adverse effect, especially if the dose is too high or if the patient misses a meal. Hyperglycemia is the opposite of what insulin does. Increased appetite and weight gain are sometimes associated with diabetes management but not direct adverse effects of insulin administration itself.",
+      "subtopic": "Antidiabetics",
       "id": 44
     },
     {
-      "correct_option": "B",
-      "explanation": "Rhabdomyolysis, characterized by severe muscle pain, weakness, and dark urine, is a rare but serious adverse effect of statin medications. It requires immediate medical attention. Diarrhea, increased appetite, and dizziness are not typically associated with statins.",
-      "subtopic": "Lipid-Lowering Agents",
+      "correct_option": "C",
+      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of sodium and chloride in the loop of Henle, leading to increased excretion of these electrolytes and water. This can also lead to increased potassium excretion, resulting in hypokalemia. Hyperkalemia is associated with potassium-sparing diuretics. Hyponatremia can occur, but hypokalemia is more consistently a concern.",
+      "subtopic": "Diuretics",
       "id": 45
     },
     {
-      "correct_option": "A",
-      "explanation": "A dry, hacking cough is a well-known and common side effect of ACE inhibitors. It occurs due to the accumulation of bradykinin. Peripheral edema, bradycardia, and constipation are not characteristic side effects of ACE inhibitors.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "B",
+      "explanation": "Digoxin slows the heart rate. A heart rate below 60 beats per minute is a common reason to hold digoxin and notify the prescriber due to the risk of bradycardia and digoxin toxicity. The other options are generally not contraindications for digoxin administration.",
+      "subtopic": "Cardiac Glycosides",
       "id": 46
     },
     {
       "correct_option": "B",
-      "explanation": "Penicillins, specifically penicillin V or amoxicillin, are the preferred first-line antibiotics for treating Group A Streptococcus (streptococcal) pharyngitis due to their efficacy and safety profile against this pathogen. Macrolides are an alternative for penicillin-allergic patients. Fluoroquinolones and tetracyclines are generally not used for this indication.",
-      "subtopic": "Antibiotics",
+      "explanation": "Statins, like atorvastatin, work by inhibiting HMG-CoA reductase, an enzyme crucial for cholesterol synthesis in the liver. This leads to a decrease in the liver's production of cholesterol. While other mechanisms exist for lipid management, this is the primary action of statins.",
+      "subtopic": "Antilipemics",
       "id": 47
     },
     {
       "correct_option": "B",
-      "explanation": "Long-term use of corticosteroids can lead to several adverse effects, including weight gain (due to fluid retention and increased appetite) and decreased bone density (osteoporosis). Increased energy, improved sleep, and lowered blood pressure are not typical long-term side effects; in fact, corticosteroids can cause insomnia and elevate blood pressure.",
-      "subtopic": "Corticosteroids",
+      "explanation": "Rash is a common allergic reaction that can occur with penicillin-class antibiotics like amoxicillin. Other common side effects include gastrointestinal upset. Tachycardia, hypertension, and dizziness are not typically primary adverse effects of amoxicillin.",
+      "subtopic": "Antibiotics",
       "id": 48
     },
     {
-      "correct_option": "C",
-      "explanation": "Lactic acidosis is a rare but potentially fatal adverse effect of metformin. Symptoms include muscle pain, difficulty breathing, and stomach pain. Increased thirst, nausea/vomiting, and blurred vision can be side effects, but lactic acidosis is the most serious to report immediately.",
-      "subtopic": "Antidiabetics",
+      "correct_option": "A",
+      "explanation": "Beta-blockers, such as metoprolol, can cause bronchoconstriction and should be used with caution or avoided in patients with a history of asthma or other reactive airway diseases. A history of asthma indicates a potential contraindication or a need for careful monitoring.",
+      "subtopic": "Antihypertensives",
       "id": 49
     },
     {
-      "correct_option": "B",
-      "explanation": "Beta-blockers can exacerbate bronchoconstriction in patients with asthma or COPD by blocking beta-2 receptors in the lungs, leading to potential respiratory distress. Therefore, they are generally contraindicated in these conditions unless a cardioselective beta-blocker is used cautiously. Hypertension, congestive heart failure, and atrial fibrillation are conditions for which beta-blockers are often prescribed.",
-      "subtopic": "Cardiovascular Agents",
+      "correct_option": "C",
+      "explanation": "Omeprazole belongs to the class of proton pump inhibitors (PPIs), which work by irreversibly blocking the proton pump in gastric parietal cells, thereby reducing gastric acid secretion. Antacids neutralize existing stomach acid, H2-receptor antagonists block histamine's action on parietal cells, and gastrointestinal stimulants increase motility.",
+      "subtopic": "Gastrointestinal Agents",
       "id": 50
     },
     {
-      "correct_option": "C",
-      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of sodium and chloride, leading to increased excretion of potassium. Therefore, hypokalemia is the most significant electrolyte imbalance to monitor. Hyperkalemia would be associated with potassium-sparing diuretics. Hyponatremia and hypercalcemia are less common side effects than hypokalemia.",
-      "subtopic": "Diuretics",
+      "correct_option": "B",
+      "explanation": "Digoxin can cause bradycardia. A heart rate below 60 beats per minute (or a specific parameter set by the healthcare provider) is a common reason to hold the medication. The other options are not contraindications for administering digoxin.",
+      "subtopic": "Cardiac Glycosides",
       "id": 51
     },
     {
       "correct_option": "B",
-      "explanation": "Warfarin is an anticoagulant that interferes with vitamin K metabolism. Leafy green vegetables are rich in vitamin K, which can counteract the effects of warfarin, leading to a decrease in its therapeutic efficacy. Citrus fruits, dairy products, and lean proteins do not significantly interfere with warfarin's action.",
+      "explanation": "Spinach is high in vitamin K, which can interfere with the anticoagulant effect of warfarin. Patients on warfarin should maintain a consistent intake of vitamin K-rich foods, not eliminate them, but consume them in moderation and consistently. Oranges, chicken breast, and rice do not significantly impact warfarin's effectiveness.",
       "subtopic": "Anticoagulants",
       "id": 52
     },
     {
-      "correct_option": "B",
-      "explanation": "Lisinopril is an Angiotensin-Converting Enzyme (ACE) inhibitor. Amlodipine is a calcium channel blocker, metoprolol is a beta-blocker, and losartan is an Angiotensin II Receptor Blocker (ARB). All can be used for hypertension, but only lisinopril belongs to the ACE inhibitor class.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "A",
+      "explanation": "Red man syndrome is a hypersensitivity reaction that can occur with rapid intravenous administration of vancomycin, characterized by flushing and erythema of the upper body. Hypoglycemia is associated with antidiabetic drugs, photosensitivity with certain antibiotics and other drugs, and tinnitus with ototoxic medications.",
+      "subtopic": "Antibiotics",
       "id": 53
     },
     {
-      "correct_option": "C",
-      "explanation": "Insulin aspart (NovoLog) is a rapid-acting insulin that begins to work within 15 minutes, peaks in about 1-2 hours, and lasts for 3-5 hours. Long-acting insulins have a duration of 12-24 hours, intermediate-acting insulins last about 10-16 hours, and basal insulin is a general term for insulin that provides background coverage, often referring to long-acting insulins.",
-      "subtopic": "Antidiabetics",
+      "correct_option": "B",
+      "explanation": "Albuterol is a short-acting beta2-adrenergic agonist. It works by stimulating beta2 receptors in the bronchial smooth muscle, leading to bronchodilation. Blocking histamine release is the action of antihistamines, inhibiting leukotriene synthesis is the action of leukotriene modifiers, and constricting bronchial smooth muscle is the opposite of its intended effect.",
+      "subtopic": "Bronchodilators",
       "id": 54
     },
     {
-      "correct_option": "C",
-      "explanation": "Albuterol is a short-acting beta-2 adrenergic agonist. It works by stimulating beta-2 receptors in the lungs, causing relaxation of the smooth muscles in the airways, thus promoting bronchodilation and relieving bronchospasm. It does not primarily reduce inflammation or suppress cough. While it can indirectly affect histamine release, its main action is bronchodilation.",
-      "subtopic": "Bronchodilators",
+      "correct_option": "A",
+      "explanation": "Hepatotoxicity is a potential serious side effect of statins like atorvastatin, and liver function tests should be monitored. Hypokalemia is more commonly associated with diuretics, bradycardia with beta-blockers, and hypertension with certain stimulants.",
+      "subtopic": "Antilipemics",
       "id": 55
     },
     {
       "correct_option": "C",
-      "explanation": "Atorvastatin is a statin medication, which works by inhibiting HMG-CoA reductase, an enzyme involved in cholesterol synthesis. This leads to a reduction in low-density lipoprotein (LDL) cholesterol levels. It does not directly lower blood pressure, prevent blood clots, or treat bacterial infections.",
-      "subtopic": "Lipid-Lowering Agents",
+      "explanation": "Muscle pain (myalgia) can be an early symptom of lactic acidosis, a rare but serious side effect of metformin. Increased thirst, frequent urination, and blurred vision are more indicative of hyperglycemia.",
+      "subtopic": "Antidiabetics",
       "id": 56
     },
     {
       "correct_option": "B",
-      "explanation": "Metformin is a biguanide that primarily reduces hepatic glucose production and increases insulin sensitivity. A rare but serious adverse effect of metformin is lactic acidosis, especially in patients with impaired renal function. While hypoglycemia can occur, it is less common with metformin alone compared to other antidiabetic agents. Hyperglycemia is the condition being treated, and weight loss is a common side effect. ",
-      "subtopic": "Antidiabetics",
+      "explanation": "Heparin works by prolonging the aPTT. The PT and INR are used to monitor warfarin therapy. While a platelet count is important to monitor for heparin-induced thrombocytopenia (HIT), the aPTT is the primary indicator of therapeutic effectiveness for a heparin drip.",
+      "subtopic": "Anticoagulants",
       "id": 57
     },
     {
-      "correct_option": "D",
-      "explanation": "Vancomycin is a glycopeptide antibiotic that is often a first-line treatment for serious infections caused by MRSA. Penicillins and cephalosporins are generally not effective against MRSA. Macrolides may be used in some cases, but vancomycin is a more consistent choice for MRSA.",
-      "subtopic": "Antibiotics",
+      "correct_option": "C",
+      "explanation": "Lisinopril is an ACE inhibitor, which blocks the conversion of angiotensin I to angiotensin II, leading to vasodilation and reduced blood pressure. Beta-blockers block beta-adrenergic receptors, calcium channel blockers block calcium influx into cells, and diuretics promote the excretion of water and electrolytes.",
+      "subtopic": "Antihypertensives",
       "id": 58
     },
     {
-      "correct_option": "B",
-      "explanation": "Beta-blockers work by blocking the effects of adrenaline on the heart, which slows the heart rate and reduces the force of contractions. Therefore, bradycardia (slow heart rate) is a potential adverse effect. Tachycardia would be the opposite effect. Beta-blockers are used to lower blood pressure, not cause hypertension. Agitation is not a typical adverse effect.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "C",
+      "explanation": "Respiratory depression is a potentially life-threatening adverse effect of opioid analgesics like morphine. While sedation, constipation, and nausea/vomiting are common side effects, respiratory depression poses the greatest immediate risk.",
+      "subtopic": "Analgesics",
       "id": 59
     },
     {
       "correct_option": "C",
-      "explanation": "Opioid analgesics, such as morphine, depress the central nervous system, which can lead to respiratory depression. This is the most serious and life-threatening adverse effect to monitor for. Opioids typically cause decreased heart rate (not increased), increased bowel motility (leading to constipation, not decreased), and pupil constriction (miosis), not dilation.",
-      "subtopic": "Analgesics",
+      "explanation": "Loop diuretics like furosemide can cause hypokalemia by increasing the excretion of potassium in the urine. Hyperkalemia is more often associated with potassium-sparing diuretics. Hyponatremia is also a possibility, but hypokalemia is a very common and significant electrolyte imbalance to monitor.",
+      "subtopic": "Diuretics",
       "id": 60
     },
     {
-      "correct_option": "C",
-      "explanation": "Warfarin is an anticoagulant that works by interfering with vitamin K metabolism. Its therapeutic effect is monitored by the Prothrombin Time (PT) and International Normalized Ratio (INR) to ensure the blood is adequately thinned without causing excessive bleeding. A CBC might be monitored for bleeding complications, but PT/INR is the primary monitoring parameter for warfarin's efficacy. Serum creatinine is for renal function, and LFTs are for liver function, which are important for drug metabolism but not the direct indicator of warfarin's therapeutic effect.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "B",
+      "explanation": "Lisinopril is an ACE inhibitor, which can cause hyperkalemia by decreasing aldosterone secretion. Hypokalemia is more commonly associated with loop diuretics. Bradycardia is a potential side effect of beta-blockers. Hyponatremia is not a common adverse effect of lisinopril.",
+      "subtopic": "Antihypertensives",
       "id": 61
     },
     {
-      "correct_option": "C",
-      "explanation": "Furosemide is a loop diuretic. It works by inhibiting the reabsorption of sodium and chloride in the loop of Henle, which leads to increased excretion of water and electrolytes, thus reducing fluid volume and blood pressure. Option A describes ACE inhibitors. Option B describes beta-blockers. Option D describes potassium-sparing diuretics like spironolactone. Option E describes vasodilators.",
-      "subtopic": "Diuretics",
+      "correct_option": "B",
+      "explanation": "Nitroglycerin is a vasodilator that primarily reduces preload (the volume of blood returning to the heart) and afterload (the resistance the heart pumps against), thereby decreasing myocardial oxygen demand. While it has some venodilation effect on coronary arteries, its primary benefit in acute MI is reducing workload on the heart. It does not increase heart rate or contractility, nor does it directly inhibit platelet aggregation as a primary mechanism. While it can have a mild venodilating effect on coronary arteries, the main benefit is reduced myocardial oxygen demand through peripheral vasodilation.",
+      "subtopic": "Nitrates",
       "id": 62
     },
     {
       "correct_option": "B",
-      "explanation": "Red man syndrome is a hypersensitivity reaction characterized by flushing, itching, and rash, particularly on the face and neck, which can occur with rapid infusion of vancomycin. Ototoxicity is a known serious adverse effect of vancomycin, but Red Man Syndrome is more commonly associated with its administration and often requires slowing the infusion rate. Hypokalemia can occur with loop diuretics. Photosensitivity is not a common side effect of vancomycin.",
-      "subtopic": "Antibiotics",
+      "explanation": "The INR is specifically used to monitor the therapeutic effectiveness of warfarin, which is an oral anticoagulant. The PTT is used to monitor unfractionated heparin. Platelet count is monitored for heparin-induced thrombocytopenia. D-dimer is a marker for fibrinolysis and is used to rule out thrombosis, not to monitor anticoagulant therapy.",
+      "subtopic": "Anticoagulants",
       "id": 63
     },
     {
       "correct_option": "B",
-      "explanation": "A dry, persistent cough is a well-known and common side effect of ACE inhibitors. Hyperkalemia is also a possible side effect, but less common than the cough. Peripheral edema is more associated with calcium channel blockers. Bradycardia is a potential side effect of beta-blockers.",
-      "subtopic": "ACE Inhibitors",
+      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of electrolytes, including magnesium, in the loop of Henle. This can lead to hypomagnesemia. Hypercalcemia is sometimes treated with furosemide, not caused by it. Hyponatremia and hypernatremia are possible electrolyte disturbances with diuretics, but hypomagnesemia is a particularly common and significant concern with furosemide.",
+      "subtopic": "Diuretics",
       "id": 64
     },
     {
-      "correct_option": "D",
-      "explanation": "Metformin is a long-term medication for managing type 2 diabetes. It should not be stopped once blood sugar levels normalize as it is intended for chronic management. Patients should continue taking it as prescribed to maintain control. Taking it with food can reduce gastrointestinal side effects. Its mechanism involves reducing hepatic glucose production. Muscle pain can be a sign of lactic acidosis, a rare but serious side effect, so reporting it is crucial.",
+      "correct_option": "C",
+      "explanation": "Lactic acidosis is a rare but serious adverse effect of metformin, particularly in patients with renal impairment or other conditions that can lead to hypoxia. Metformin is associated with weight loss or no change in weight, not gain. While hypoglycemia can occur, it is less common with metformin than with other antidiabetic agents and usually occurs when combined with other medications or in specific circumstances. Nausea and vomiting are common but usually transient side effects.",
       "subtopic": "Antidiabetics",
       "id": 65
     },
     {
-      "correct_option": "C",
-      "explanation": "Albuterol is a rescue inhaler used for immediate relief of bronchospasm in asthma. It is a short-acting beta-agonist (SABA) that works by relaxing the smooth muscles of the airways, providing rapid bronchodilation. Inhaled corticosteroids (A) are for long-term control of inflammation. Long-acting beta-agonists (B) are used for maintenance therapy and should not be used for acute exacerbations. Anticholinergic bronchodilators (D) like ipratropium are also used for bronchodilation, but albuterol is the classic SABA.",
-      "subtopic": "Respiratory Medications",
+      "correct_option": "B",
+      "explanation": "Beta-blockers, like metoprolol, can significantly lower heart rate. A heart rate of 55 beats per minute indicates that the medication is having a pronounced effect and could lead to symptomatic bradycardia. A blood pressure of 110/70 mmHg is within an acceptable range. Peripheral edema and shortness of breath are symptoms of heart failure and require treatment, but a low heart rate is a direct contraindication for further beta-blocker administration without medical consultation.",
+      "subtopic": "Beta-blockers",
       "id": 66
     },
     {
-      "correct_option": "C",
-      "explanation": "Digoxin toxicity can occur if the serum digoxin level is too high or if the patient experiences electrolyte imbalances, particularly hypokalemia or hyperkalemia. However, symptoms of digoxin toxicity, such as nausea, vomiting, visual disturbances (blurred vision, yellow halos), confusion, and arrhythmias, are critical indicators to withhold the dose and notify the healthcare provider. A heart rate of 75 bpm is within a normal range for administering digoxin, but if it were significantly low (e.g., below 60 bpm), it would also warrant holding the dose. A potassium level of 4.0 mEq/L is normal and not indicative of toxicity. Blood pressure is not the primary vital sign to monitor for digoxin administration.",
-      "subtopic": "Cardiac Glycosides",
+      "correct_option": "B",
+      "explanation": "Aspirin, an NSAID, inhibits platelet aggregation and can irritate the gastric mucosa, increasing the risk of gastrointestinal bleeding. Hepatotoxicity is more commonly associated with acetaminophen overdose. Nephrotoxicity can occur with NSAIDs, but GI bleeding is a more frequent and immediate concern with aspirin. Ototoxicity is a side effect of some antibiotics and chemotherapy agents.",
+      "subtopic": "Antiplatelets",
       "id": 67
     },
     {
       "correct_option": "B",
-      "explanation": "Naloxone (Narcan) is a pure opioid antagonist that reverses the effects of opioid overdose, including respiratory depression and sedation. Flumazenil (A) is the antidote for benzodiazepine overdose. Protamine sulfate (C) is the antidote for heparin overdose. Acetylcysteine (D) is the antidote for acetaminophen overdose.",
-      "subtopic": "Antidotes",
+      "explanation": "Protamine sulfate is the specific antagonist for heparin and is used to reverse its anticoagulant effects. Vitamin K is the antidote for warfarin. N-acetylcysteine is an antidote for acetaminophen overdose. Flumazenil is a benzodiazepine antagonist.",
+      "subtopic": "Anticoagulants",
       "id": 68
     },
     {
-      "correct_option": "C",
-      "explanation": "Atorvastatin is a statin medication, which is primarily prescribed to lower cholesterol levels in the blood. This is achieved by inhibiting HMG-CoA reductase, an enzyme involved in cholesterol synthesis. Lowering cholesterol helps reduce the risk of cardiovascular diseases like heart attack and stroke. The other options describe the primary functions of different drug classes.",
-      "subtopic": "Lipid-Lowering Agents",
+      "correct_option": "B",
+      "explanation": "Acetaminophen is metabolized in the liver, and concurrent alcohol consumption significantly increases the risk of hepatotoxicity. Milk, orange juice, and water do not typically interact with acetaminophen in a way that increases liver toxicity.",
+      "subtopic": "Analgesics",
       "id": 69
     },
     {
-      "correct_option": "D",
-      "explanation": "Beta-blockers, such as propranolol or metoprolol, work by blocking the effects of adrenaline and noradrenaline on the heart and blood vessels. This can lead to a decrease in heart rate and blood pressure. Therefore, it is crucial for the nurse to assess the patient's blood pressure and heart rate before administering a beta-blocker to ensure it is safe to give the medication and to monitor for potential bradycardia or hypotension.",
-      "subtopic": "Beta-Blockers",
+      "correct_option": "B",
+      "explanation": "Statins, such as atorvastatin, work by inhibiting HMG-CoA reductase, a key enzyme in the liver's cholesterol synthesis pathway. This reduces the liver's production of cholesterol. While some statins may have minor effects on LDL breakdown or cholesterol absorption, the primary mechanism is inhibition of synthesis.",
+      "subtopic": "Statins",
       "id": 70
     },
     {
       "correct_option": "B",
-      "explanation": "Warfarin is an anticoagulant. The International Normalized Ratio (INR) is a standardized measure of the blood's clotting time, which is crucial for monitoring the effectiveness and safety of warfarin therapy. Hemoglobin A1c monitors long-term glucose control, serum creatinine assesses kidney function, and potassium level checks electrolyte balance, which are not the primary laboratory tests for warfarin.",
-      "subtopic": "Anticoagulants",
+      "explanation": "Digoxin is a cardiac glycoside that slows the heart rate. An apical pulse below 60 beats/min (or a specified parameter, often 50-60 bpm depending on institutional policy and patient history) is a common reason to hold the dose due to the risk of bradycardia and toxicity. Option A is a normal finding. Option C is within the normal range and not indicative of digoxin toxicity or a reason to hold. Option D is adequate urine output and does not directly relate to a contraindication for digoxin.",
+      "subtopic": "Cardiac Glycosides",
       "id": 71
     },
     {
-      "correct_option": "B",
-      "explanation": "Lisinopril is an ACE inhibitor. A common and bothersome side effect of ACE inhibitors is a dry, hacking cough. Peripheral edema is more commonly associated with calcium channel blockers. Dizziness upon standing can occur with any antihypertensive but is not specific to lisinopril. Weight gain is not a typical side effect of lisinopril.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "C",
+      "explanation": "Aspirin is an NSAID and can increase the risk of bleeding, especially when taken with warfarin, which is also an anticoagulant. Patients on warfarin should avoid NSAIDs unless specifically directed by their healthcare provider. Options A, B, and D are all correct patient teachings for warfarin therapy.",
+      "subtopic": "Anticoagulants",
       "id": 72
     },
     {
-      "correct_option": "D",
-      "explanation": "Beta-adrenergic antagonists, commonly known as beta-blockers, work by blocking the effects of adrenaline and noradrenaline on the body's beta receptors, leading to a decrease in heart rate and blood pressure. ACE inhibitors block the renin-angiotensin-aldosterone system. Calcium channel blockers affect the movement of calcium into heart and blood vessel cells. Diuretics increase the excretion of water and electrolytes.",
-      "subtopic": "Cardiovascular Medications",
+      "correct_option": "C",
+      "explanation": "Metformin is a biguanide that primarily works by reducing hepatic glucose production and increasing insulin sensitivity. Gastrointestinal side effects such as nausea, diarrhea, and abdominal discomfort are the most common adverse effects. While hypoglycemia can occur, it is less common with metformin alone compared to other antidiabetic agents. Weight loss is often a side effect, not weight gain. Peripheral edema is not a common side effect.",
+      "subtopic": "Antidiabetics",
       "id": 73
     },
     {
-      "correct_option": "B",
-      "explanation": "Protamine sulfate is the specific antidote for heparin overdose or excessive bleeding. Naloxone is an opioid antagonist. Vitamin K is the antidote for warfarin. Flumazenil is a benzodiazepine antagonist.",
-      "subtopic": "Hematologic Medications",
+      "correct_option": "A",
+      "explanation": "Red man syndrome is a histamine-mediated reaction that can occur with rapid intravenous infusion of vancomycin. Symptoms include flushing, itching, and rash, predominantly on the face and neck. While ototoxicity and nephrotoxicity are potential adverse effects of vancomycin, they are not typically associated with the infusion rate as directly as Red man syndrome. Stevens-Johnson syndrome is a severe dermatological reaction and is not directly linked to vancomycin infusion rate.",
+      "subtopic": "Antibiotics",
       "id": 74
     },
     {
       "correct_option": "C",
-      "explanation": "While patients may experience hypoglycemia with other diabetes medications, metformin itself does not typically cause significant hypoglycemia when taken as prescribed. Therefore, stopping it due to low blood sugar is not the primary instruction. The other statements are correct: take with meals to reduce GI upset, nausea/diarrhea are common side effects, and it improves insulin sensitivity.",
-      "subtopic": "Antidiabetics",
+      "explanation": "Beta-blockers can cause bronchoconstriction, especially in patients with a history of asthma or COPD. Bronchospasm and difficulty breathing are serious adverse effects that require immediate attention. An increased heart rate is the opposite of what beta-blockers do. Dizziness upon standing can occur due to orthostatic hypotension, but bronchospasm is more acutely dangerous. Warm, flushed skin is not a typical side effect.",
+      "subtopic": "Antihypertensives",
       "id": 75
     },
     {
-      "correct_option": "C",
-      "explanation": "Constipation is a very common side effect of opioid analgesics due to their effect on gastrointestinal motility. Diarrhea, insomnia, and increased heart rate are not typical side effects of opioids.",
-      "subtopic": "Analgesics",
+      "correct_option": "B",
+      "explanation": "A dry, hacking cough is a very common and characteristic side effect of ACE inhibitors due to their effect on bradykinin. Hypokalemia can occur with some ACE inhibitors but is not as common as the cough. Angioedema is a serious but less common side effect. Bradycardia is more associated with beta-blockers.",
+      "subtopic": "Antihypertensives",
       "id": 76
     },
     {
-      "correct_option": "B",
-      "explanation": "Grapefruit juice can significantly increase the blood levels of atorvastatin, leading to an increased risk of side effects, including myopathy and rhabdomyolysis. Citrus fruits (other than grapefruit), dairy products, and leafy green vegetables do not typically interact with atorvastatin in this manner.",
-      "subtopic": "Lipid-Lowering Agents",
+      "correct_option": "C",
+      "explanation": "Muscle pain, weakness, or tenderness (myopathy) is a serious potential side effect of statins, which can progress to rhabdomyolysis, a life-threatening condition. This requires immediate medical attention. A mild headache, constipation, and elevated liver enzymes (while monitored) are less acutely concerning than significant muscle pain. Elevated liver enzymes are monitored, but muscle pain is often the first sign of a more serious issue.",
+      "subtopic": "Antihyperlipidemics",
       "id": 77
     },
     {
       "correct_option": "C",
-      "explanation": "Dabigatran is a direct thrombin inhibitor. Clopidogrel and warfarin are antiplatelets/anticoagulants that work differently. Enoxaparin is a low-molecular-weight heparin. Warfarin is a vitamin K antagonist, and clopidogrel is an antiplatelet.",
-      "subtopic": "Anticoagulants",
+      "explanation": "Respiratory depression is the most serious and potentially life-threatening adverse effect of opioid analgesics like morphine, as it can lead to respiratory arrest. Nausea, vomiting, constipation, and sedation are common side effects of opioids but are generally less immediately dangerous than respiratory depression.",
+      "subtopic": "Analgesics",
       "id": 78
     },
     {
-      "correct_option": "C",
-      "explanation": "Loop diuretics, such as furosemide, promote the excretion of potassium, leading to hypokalemia. Hyperkalemia is more commonly associated with potassium-sparing diuretics. Hyponatremia can occur but hypokalemia is the most common and significant electrolyte imbalance to monitor for.",
-      "subtopic": "Diuretics",
+      "correct_option": "B",
+      "explanation": "The primary mechanism of action for anticoagulants like heparin is to prevent the formation of new blood clots by interfering with the clotting cascade. They do not dissolve existing clots (that's the role of thrombolytics). They work by inhibiting clot formation, not promoting platelet aggregation, and are not directly involved in wound healing.",
+      "subtopic": "Anticoagulants",
       "id": 79
     },
     {
-      "correct_option": "C",
-      "explanation": "Proton pump inhibitors (PPIs) work by irreversibly blocking the H+/K+-ATPase enzyme system (the proton pump) in the parietal cells of the stomach, which is the final step in gastric acid secretion. Histamine blockers affect H2 receptors. Antacids neutralize acid. Coating agents protect the stomach lining.",
-      "subtopic": "Gastrointestinal Medications",
+      "correct_option": "A",
+      "explanation": "Long-term use of PPIs has been associated with an increased risk of osteoporosis due to potential effects on calcium absorption and vitamin B12 absorption. While PPIs can decrease stomach acid, reducing the risk of ulcers, prolonged use can lead to other issues. Reduced absorption of vitamin B12 is a concern, not vitamin C. PPIs do not typically decrease the risk of pneumonia; in fact, some studies suggest a slight increase.",
+      "subtopic": "Gastrointestinal Agents",
       "id": 80
     },
     {
       "correct_option": "B",
-      "explanation": "Digoxin has a narrow therapeutic index and can cause bradycardia. A heart rate below 60 beats per minute is a common reason to hold the dose. While other assessments are important, the heart rate is the most critical for digoxin administration. Option A is a normal blood pressure range, not a contraindication. Option C is within the acceptable range for oxygen saturation. Option D indicates a normal potassium level, which is important as hypokalemia can increase the risk of digoxin toxicity.",
-      "subtopic": "Cardiac Glycosides",
+      "explanation": "Warfarin is an anticoagulant, and its effectiveness and safety are primarily monitored by the Prothrombin Time (PT) and International Normalized Ratio (INR) to ensure therapeutic anticoagulation while minimizing bleeding risk. A CBC monitors red blood cells, white blood cells, and platelets. LFTs assess liver function, which is important for drug metabolism but not the primary monitoring tool for warfarin's anticoagulant effect. Serum creatinine assesses kidney function.",
+      "subtopic": "Anticoagulants",
       "id": 81
     },
     {
-      "correct_option": "D",
-      "explanation": "Warfarin's anticoagulant effect is potentiated by NSAIDs like ibuprofen, increasing the risk of bleeding. Patients should be instructed to avoid or consult their healthcare provider before taking NSAIDs. Option A is correct as vitamin K in leafy greens can counteract warfarin. Option B is important for maintaining consistent therapeutic levels. Option C highlights a crucial sign of bleeding that requires medical attention.",
-      "subtopic": "Anticoagulants",
+      "correct_option": "B",
+      "explanation": "Albuterol is a short-acting beta-agonist (SABA) bronchodilator used for the rapid relief of bronchospasm, acting as a 'rescue' inhaler. It is not a long-term controller medication or an alternative to inhaled corticosteroids, which target inflammation. It's typically used as needed for acute symptoms, not solely at bedtime.",
+      "subtopic": "Bronchodilators",
       "id": 82
     },
     {
-      "correct_option": "B",
-      "explanation": "Gastrointestinal disturbances, including nausea, diarrhea, and abdominal cramping, are common side effects of metformin, especially when initiating therapy. The nurse should educate the patient about these potential effects and suggest taking the medication with meals to minimize them. Options A, C, and D are not common side effects associated with metformin.",
+      "correct_option": "C",
+      "explanation": "Metformin, a biguanide, commonly causes gastrointestinal side effects such as diarrhea, nausea, and abdominal discomfort. While hypoglycemia can occur, it's less common with metformin alone than with some other diabetes medications. Weight gain is not a typical side effect; it can sometimes lead to modest weight loss. Peripheral neuropathy is a complication of diabetes, not a direct side effect of metformin.",
       "subtopic": "Antidiabetics",
       "id": 83
     },
     {
       "correct_option": "A",
-      "explanation": "Red man syndrome is a histamine-mediated reaction characterized by flushing and pruritus, particularly on the face, neck, and upper torso, that can occur with rapid intravenous administration of vancomycin. Slowing the infusion rate usually resolves the symptoms. Hypoglycemia and bradycardia are not typical adverse effects of vancomycin. Bronchospasm is a rare but possible reaction, but Red man syndrome is more common and directly related to the infusion rate.",
-      "subtopic": "Antibiotics",
+      "explanation": "Furosemide is a loop diuretic that inhibits the reabsorption of sodium and chloride ions in the thick ascending limb of the loop of Henle, leading to increased excretion of sodium, chloride, potassium, and water. While it does promote potassium excretion, this is a consequence of its primary action. It does not directly promote water reabsorption or block aldosterone.",
+      "subtopic": "Diuretics",
       "id": 84
     },
     {
-      "correct_option": "C",
-      "explanation": "A dry, persistent cough is a common and often bothersome side effect of ACE inhibitors like lisinopril, occurring in about 5-20% of patients. Hypokalemia is generally associated with diuretics, while ACE inhibitors can sometimes cause hyperkalemia. Peripheral edema is more commonly associated with calcium channel blockers. Therefore, monitoring for a dry cough is a key nursing intervention.",
-      "subtopic": "Antihypertensives",
+      "correct_option": "B",
+      "explanation": "Red man syndrome, characterized by flushing and rash, is a potential adverse effect associated with rapid intravenous administration of vancomycin. Ototoxicity (hearing damage) and nephrotoxicity (kidney damage) are also potential serious adverse effects of vancomycin, but they are typically dose-related and occur over time, not specifically with rapid infusion. Photosensitivity is not a common side effect of vancomycin.",
+      "subtopic": "Antibiotics",
       "id": 85
     }
   ]
